@@ -1,9 +1,10 @@
 21 countries
 Afghanistan
+Algeria
 Canada
 China
-Cuba
 Egypt
+France
 Greenland
 Guatemala
 Kazakhstan
@@ -13,10 +14,9 @@ Mongolia
 Morocco
 Niger
 None
+Poland
 Russian_Federation
-Spain
 Sudan
-Sweden
 Turkey
 Turkmenistan
 United_States_of_America
