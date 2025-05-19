@@ -1,5 +1,4 @@
-21 countries
-Afghanistan
+19 countries
 Algeria
 Azerbaijan
 Canada
@@ -13,7 +12,6 @@ Iran_(Islamic_Republic_of)
 Italy
 Kazakhstan
 Mali
-Malta
 Mongolia
 Niger
 None
