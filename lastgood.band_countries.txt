@@ -1,4 +1,4 @@
-Last updated: 2025-05-20_00:26 (utc)
+Last updated: 2025-05-20_03:45 (utc)
 Thanks to all the picoballoonists and wspr rx spotters worldwide
 Thanks to wsprlive and wsprnet maintainers: https://wspr.live https://wsprnet.org
 Thanks to Doug KD2KDD for traquito web site https://traquito.github.io
@@ -6,13 +6,13 @@ Thanks to Pedro LU7AA for: http://lu7aa.org.ar/wsprx.asp
 Thanks to amateur.sondehub maintainers: https://amateur.sondehub.org
 maintainer: Kevin AD6Z (Feedback: can find my email at qrz.com)
 
-10m 22
+10m 27
 12m 4
-15m 6
+15m 7
 17m 9
-20m 52
+20m 56
 
-24 countries
+22 countries
 Afghanistan
 Algeria
 Argentina
@@ -22,7 +22,7 @@ Egypt
 France
 Greenland
 Guatemala
-Iran_(Islamic_Republic_of)
+Japan
 Kazakhstan
 Libya
 Lithuania
@@ -31,9 +31,7 @@ Netherlands
 New_Zealand
 Niger
 None
-Poland
 Russian_Federation
 Sudan
-Turkey
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
