@@ -1,22 +1,20 @@
-21 countries
+19 countries
 Algeria
-Argentina
+Azerbaijan
 Canada
 China
-Cyprus
+Croatia
 Egypt
-Greenland
 Guatemala
-India
-Italy
+Iran_(Islamic_Republic_of)
 Japan
+Jordan
 Kazakhstan
+Moldova,_Republic_of
+Mongolia
 Niger
 None
-Poland
 Russian_Federation
 Saudi_Arabia
 Sudan
-Tunisia
-Ukraine
 United_States_of_America
