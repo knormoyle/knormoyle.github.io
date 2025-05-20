@@ -1,4 +1,4 @@
-23 countries
+21 countries
 Algeria
 Argentina
 Canada
@@ -11,14 +11,12 @@ India
 Italy
 Japan
 Kazakhstan
-Libya
-Lithuania
-Morocco
-New_Zealand
 Niger
 None
 Poland
 Russian_Federation
 Saudi_Arabia
 Sudan
+Tunisia
+Ukraine
 United_States_of_America
