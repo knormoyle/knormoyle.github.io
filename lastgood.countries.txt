@@ -1,4 +1,4 @@
-24 countries
+22 countries
 Afghanistan
 Algeria
 Argentina
@@ -8,7 +8,7 @@ Egypt
 France
 Greenland
 Guatemala
-Iran_(Islamic_Republic_of)
+Japan
 Kazakhstan
 Libya
 Lithuania
@@ -17,9 +17,7 @@ Netherlands
 New_Zealand
 Niger
 None
-Poland
 Russian_Federation
 Sudan
-Turkey
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
