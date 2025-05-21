@@ -1,6 +1,5 @@
 21 countries tx'ed from
 Afghanistan
-Algeria
 Canada
 Chad
 China
@@ -9,13 +8,14 @@ Greenland
 India
 Iran_(Islamic_Republic_of)
 Libya
+Mexico
 Moldova,_Republic_of
 Mongolia
 None
 Norway
 Pakistan
-Romania
 Russian_Federation
+Tajikistan
 Turkey
 Turkmenistan
 Ukraine
