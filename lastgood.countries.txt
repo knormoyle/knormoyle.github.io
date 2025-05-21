@@ -1,13 +1,12 @@
 19 countries
+Afghanistan
 Algeria
-Azerbaijan
 Canada
 China
 Croatia
 Egypt
 Guatemala
 Iran_(Islamic_Republic_of)
-Japan
 Kazakhstan
 Moldova,_Republic_of
 Mongolia
@@ -17,4 +16,5 @@ Poland
 Russian_Federation
 Saudi_Arabia
 Sudan
+Svalbard_and_Jan_Mayen
 United_States_of_America
