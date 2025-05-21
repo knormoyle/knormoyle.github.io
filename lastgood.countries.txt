@@ -1,4 +1,4 @@
-21 countries tx'ed from
+20 countries tx'ed from
 Afghanistan
 Canada
 Chad
@@ -8,13 +8,12 @@ Greenland
 India
 Iran_(Islamic_Republic_of)
 Libya
-Mexico
 Moldova,_Republic_of
 Mongolia
 None
-Norway
 Pakistan
 Russian_Federation
+Sweden
 Tajikistan
 Turkey
 Turkmenistan
