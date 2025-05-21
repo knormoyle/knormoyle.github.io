@@ -1,4 +1,4 @@
-Last updated: 2025-05-20_23:25 (utc)
+Last updated: 2025-05-21_01:42 (utc)
 Thanks to all the picoballoonists and wspr rx spotters worldwide
 Thanks to wsprlive and wsprnet maintainers: https://wspr.live https://wsprnet.org
 Thanks to Doug KD2KDD for traquito web site https://traquito.github.io
@@ -13,15 +13,14 @@ maintainer: Kevin AD6Z (Feedback: can find my email at qrz.com)
 20m 47
 
 19 countries
+Afghanistan
 Algeria
-Azerbaijan
 Canada
 China
 Croatia
 Egypt
 Guatemala
 Iran_(Islamic_Republic_of)
-Japan
 Kazakhstan
 Moldova,_Republic_of
 Mongolia
@@ -31,4 +30,5 @@ Poland
 Russian_Federation
 Saudi_Arabia
 Sudan
+Svalbard_and_Jan_Mayen
 United_States_of_America
