@@ -16,5 +16,5 @@ r2picotracker 1
 traquito_u4b 23
 u4b 6
 w5kub 2
-wb8elk 13
-zachtek 11
+wb8elk 12
+zachtek 12
