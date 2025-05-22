@@ -1,14 +1,15 @@
-20 countries tx'ed from
+21 countries tx'ed from
 Afghanistan
-Australia
 Azerbaijan
 Canada
 China
 Greenland
 Guatemala
 India
+Ireland
 Japan
 Kazakhstan
+Mexico
 Mongolia
 Nigeria
 None
