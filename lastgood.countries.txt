@@ -1,24 +1,23 @@
-23 countries tx'ed from
+22 countries tx'ed from
 Afghanistan
 Algeria
 Canada
 China
 Denmark
-Egypt
 Germany
 Guatemala
-Iran_(Islamic_Republic_of)
-Jordan
+India
+Japan
 Kazakhstan
 Kyrgyzstan
 Mexico
-Moldova,_Republic_of
 Mongolia
 Nepal
-Niger
+Nigeria
 None
+Poland
 Puerto_Rico
 Russian_Federation
-Tajikistan
+Turkmenistan
+United_States_Minor_Outlying_Islands
 United_States_of_America
-Uzbekistan
