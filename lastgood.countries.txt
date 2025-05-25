@@ -1,7 +1,6 @@
-14 countries tx'ed from
+13 countries tx'ed from
 Canada
 China
-Germany
 Japan
 Kazakhstan
 None
@@ -10,6 +9,6 @@ Poland
 Russian_Federation
 South_Africa
 Sweden
-Turkey
+Syrian_Arab_Republic
 Turkmenistan
 United_States_of_America
