@@ -1,15 +1,16 @@
-14 countries tx'ed from
-Algeria
+15 countries tx'ed from
+Bosnia_and_Herzegovina
 Canada
 China
-Croatia
+Finland
+Greenland
 Japan
-Mexico
+Libya
 None
-Poland
 Russian_Federation
 South_Africa
+Spain
 Sweden
+Switzerland
 Syrian_Arab_Republic
-United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
