@@ -1,16 +1,22 @@
-15 countries tx'ed from
-Albania
-Bulgaria
+21 countries tx'ed from
+Bosnia_and_Herzegovina
 Canada
 China
+Croatia
+Greece
 Greenland
+Iran_(Islamic_Republic_of)
 Japan
 Liberia
+Mexico
 Mongolia
+Morocco
+Netherlands
 None
+Romania
 Russian_Federation
 South_Africa
-Spain
 Sweden
-Syrian_Arab_Republic
+Tunisia
+United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
