@@ -1,14 +1,13 @@
-16 countries tx'ed from
+15 countries tx'ed from
+Afghanistan
 Bosnia_and_Herzegovina
 Canada
 Greece
 Greenland
-Iran_(Islamic_Republic_of)
 Liberia
 Mexico
 Mongolia
 Morocco
-Netherlands
 None
 Romania
 Russian_Federation
