@@ -1,4 +1,4 @@
-Last updated: 2025-05-28_15:12 (utc)
+Last updated: 2025-05-28_17:03 (utc)
 Thanks to all the picoballoonists and wspr rx spotters worldwide
 Thanks to wsprlive and wsprnet maintainers: https://wspr.live https://wsprnet.org
 Thanks to Doug KD2KDD for traquito web site https://traquito.github.io
@@ -13,7 +13,7 @@ maintainer: Kevin AD6Z (Feedback: can find my email at qrz.com)
 20m 43
 
 unique trackers: (some wrong identification)
-None 1
+None 2
 ab5sss 2
 ad6z_u4b 5
 ag6ns 2
@@ -21,19 +21,19 @@ kc3lbr_u4b 2
 other 1
 qrplabs_u4b 10
 r2picotracker 1
-traquito_u4b 27
-wb8elk 16
-zachtek 8
+traquito_u4b 26
+wb8elk 17
+zachtek 7
 
-17 countries tx'ed from
-Algeria
+16 countries tx'ed from
 Austria
-Belarus
 Bulgaria
 Canada
 China
 France
+Greece
 Greenland
+Libya
 Mexico
 Moldova,_Republic_of
 Morocco
@@ -41,5 +41,4 @@ None
 Russian_Federation
 Tajikistan
 Turkey
-United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
