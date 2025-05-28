@@ -1,11 +1,9 @@
-20 countries tx'ed from
+16 countries tx'ed from
 Bosnia_and_Herzegovina
 Canada
-China
 Greece
 Greenland
 Iran_(Islamic_Republic_of)
-Japan
 Liberia
 Mexico
 Mongolia
@@ -14,8 +12,6 @@ Netherlands
 None
 Romania
 Russian_Federation
-South_Africa
-Sweden
 Tunisia
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
