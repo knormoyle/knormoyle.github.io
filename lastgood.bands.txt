@@ -13,7 +13,8 @@ kc3lbr_u4b 2
 other 1
 qrplabs_u4b 9
 r2picotracker 1
-sp6mpl 1
+sp2roc 3
+sp6mpl 5
 traquito_u4b 28
 wb8elk 2
-zachtek 22
+zachtek 15
