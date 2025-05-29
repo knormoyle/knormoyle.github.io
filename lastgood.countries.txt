@@ -1,17 +1,19 @@
-16 countries tx'ed from
+18 countries tx'ed from
+Algeria
 Austria
 Bulgaria
 Canada
-China
 France
 Greece
 Greenland
+Japan
 Libya
 Mexico
 Moldova,_Republic_of
-Morocco
+Mongolia
 None
 Russian_Federation
-Tajikistan
+Svalbard_and_Jan_Mayen
 Turkey
+United_States_Minor_Outlying_Islands
 United_States_of_America
