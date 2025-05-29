@@ -1,4 +1,4 @@
-Last updated: 2025-05-29_01:56 (utc)
+Last updated: 2025-05-29_04:01 (utc)
 Thanks to all the picoballoonists and wspr rx spotters worldwide
 Thanks to wsprlive and wsprnet maintainers: https://wspr.live https://wsprnet.org
 Thanks to Doug KD2KDD for traquito web site https://traquito.github.io
@@ -21,12 +21,13 @@ kc3lbr_u4b 2
 other 1
 qrplabs_u4b 9
 r2picotracker 1
-sp6mpl 1
+sp2roc 3
+sp6mpl 5
 traquito_u4b 28
 wb8elk 2
-zachtek 22
+zachtek 15
 
-18 countries tx'ed from
+17 countries tx'ed from
 Algeria
 Austria
 Bulgaria
@@ -43,5 +44,4 @@ None
 Russian_Federation
 Svalbard_and_Jan_Mayen
 Turkey
-United_States_Minor_Outlying_Islands
 United_States_of_America
