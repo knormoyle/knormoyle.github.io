@@ -1,4 +1,4 @@
-22 countries tx'ed from
+20 countries tx'ed from
 Algeria
 Austria
 Bulgaria
@@ -12,7 +12,6 @@ Kazakhstan
 Mauritania
 Mexico
 Moldova,_Republic_of
-Mongolia
 None
 Norway
 Poland
@@ -20,4 +19,3 @@ Russian_Federation
 Sweden
 Turkey
 United_States_of_America
-Uzbekistan
