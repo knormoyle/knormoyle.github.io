@@ -1,22 +1,23 @@
-21 countries tx'ed from
+22 countries tx'ed from
 Algeria
+Austria
 Bulgaria
-Cabo_Verde
 Canada
 China
 Egypt
-Greece
+Finland
 Greenland
-Ireland
+Italy
 Kazakhstan
-Libya
+Mauritania
 Mexico
 Moldova,_Republic_of
-Morocco
+Mongolia
 None
+Norway
+Poland
 Russian_Federation
-Serbia
-Spain
+Sweden
 Turkey
-United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
+Uzbekistan
