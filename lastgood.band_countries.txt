@@ -1,4 +1,4 @@
-Last updated: 2025-06-01_20:45 (utc)
+Last updated: 2025-06-01_23:05 (utc)
 Thanks to all the picoballoonists and wspr rx spotters worldwide
 Thanks to wsprlive and wsprnet maintainers: https://wspr.live https://wsprnet.org
 Thanks to Doug KD2KDD for traquito web site https://traquito.github.io
@@ -25,7 +25,7 @@ sp6mpl 5
 traquito_u4b 29
 zachtek 10
 
-21 countries tx'ed from
+20 countries tx'ed from
 Algeria
 Australia
 Canada
@@ -37,7 +37,6 @@ Finland
 Germany
 Greenland
 Ireland
-Japan
 Kazakhstan
 Libya
 None
