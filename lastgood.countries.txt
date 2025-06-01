@@ -1,4 +1,4 @@
-21 countries tx'ed from
+20 countries tx'ed from
 Algeria
 Australia
 Canada
@@ -10,7 +10,6 @@ Finland
 Germany
 Greenland
 Ireland
-Japan
 Kazakhstan
 Libya
 None
