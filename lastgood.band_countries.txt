@@ -1,10 +1,13 @@
-Last updated: 2025-06-02_21:58 (utc)
+Last updated: 2025-06-02_22:07 (utc)
 Thanks to all the picoballoonists and wspr rx spotters worldwide
 Thanks to wsprlive and wsprnet maintainers: https://wspr.live https://wsprnet.org
 Thanks to Doug KD2KDD for traquito web site https://traquito.github.io
 Thanks to Pedro LU7AA for: http://lu7aa.org.ar/wsprx.asp
 Thanks to amateur.sondehub maintainers: https://amateur.sondehub.org
 maintainer: Kevin AD6Z (Feedback: can find my email at qrz.com)
+
+You can hard refresh your browser in case the following text data is stale in browser cache.
+On google chrome: <ctrl> + F5
 
 10m 22
 12m 3
