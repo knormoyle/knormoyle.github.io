@@ -1,4 +1,4 @@
-23 countries tx'ed from
+22 countries tx'ed from
 Australia
 Canada
 China
@@ -10,7 +10,6 @@ Greenland
 Guinea
 Kazakhstan
 Mali
-Mexico
 Mongolia
 None
 Portugal
