@@ -1,15 +1,13 @@
 20 countries tx'ed from
-Algeria
+Armenia
 Australia
 Canada
 China
 Colombia
 Cuba
-Egypt
 Finland
-Germany
+France
 Greenland
-Ireland
 Kazakhstan
 Libya
 None
@@ -17,5 +15,7 @@ Poland
 Russian_Federation
 Senegal
 Sweden
+Syrian_Arab_Republic
 Turkey
+Turkmenistan
 United_States_of_America
