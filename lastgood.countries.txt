@@ -1,21 +1,24 @@
-20 countries tx'ed from
-Armenia
+23 countries tx'ed from
 Australia
 Canada
 China
 Colombia
-Cuba
 Finland
-France
+Georgia
+Germany
 Greenland
+Guinea
 Kazakhstan
-Libya
+Mali
+Mexico
+Mongolia
 None
-Poland
+Portugal
 Russian_Federation
-Senegal
 Sweden
 Syrian_Arab_Republic
 Turkey
 Turkmenistan
 United_States_of_America
+Uzbekistan
+Venezuela_(Bolivarian_Republic_of)
