@@ -1,4 +1,4 @@
-Last updated: 2025-06-01_23:05 (utc)
+Last updated: 2025-06-02_07:48 (utc)
 Thanks to all the picoballoonists and wspr rx spotters worldwide
 Thanks to wsprlive and wsprnet maintainers: https://wspr.live https://wsprnet.org
 Thanks to Doug KD2KDD for traquito web site https://traquito.github.io
@@ -6,37 +6,35 @@ Thanks to Pedro LU7AA for: http://lu7aa.org.ar/wsprx.asp
 Thanks to amateur.sondehub maintainers: https://amateur.sondehub.org
 maintainer: Kevin AD6Z (Feedback: can find my email at qrz.com)
 
-10m 23
+10m 22
 12m 3
-15m 6
+15m 5
 17m 3
 20m 40
 
 unique trackers: (some wrong identification)
-None 3
+None 4
 ab5ss 2
-ad6z_u4b 7
+ad6z_u4b 6
 ag6ns 2
 kc3lbr_u4b 4
-qrplabs_u4b 5
+qrplabs_u4b 4
 sp0lnd 3
 sp2roc 5
 sp6mpl 5
-traquito_u4b 29
+traquito_u4b 28
 zachtek 10
 
 20 countries tx'ed from
-Algeria
+Armenia
 Australia
 Canada
 China
 Colombia
 Cuba
-Egypt
 Finland
-Germany
+France
 Greenland
-Ireland
 Kazakhstan
 Libya
 None
@@ -44,5 +42,7 @@ Poland
 Russian_Federation
 Senegal
 Sweden
+Syrian_Arab_Republic
 Turkey
+Turkmenistan
 United_States_of_America
