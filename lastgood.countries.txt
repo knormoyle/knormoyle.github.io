@@ -1,4 +1,4 @@
-21 countries tx'ed from
+19 countries tx'ed from
 Algeria
 Canada
 Chad
@@ -6,9 +6,7 @@ China
 Colombia
 France
 Greenland
-India
 Kazakhstan
-Korea_(Democratic_People's_Republic_of)
 Libya
 Mexico
 Mongolia
