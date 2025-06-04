@@ -1,9 +1,9 @@
-22 countries tx'ed from
+20 countries tx'ed from
+Bermuda
 Canada
 Chad
 China
 Colombia
-Czechia
 Germany
 Greenland
 Iran_(Islamic_Republic_of)
@@ -16,8 +16,6 @@ Mongolia
 None
 Poland
 Russian_Federation
-Sweden
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_Minor_Outlying_Islands
 United_States_of_America
-Uzbekistan
