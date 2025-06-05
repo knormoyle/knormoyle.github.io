@@ -1,20 +1,16 @@
-21 countries tx'ed from
+17 countries tx'ed from
 Belgium
 Canada
-China
 Colombia
 Greenland
-Ireland
 Italy
 Japan
-Korea,_Republic_of
 Mexico
-Mongolia
 None
+Norway
 Pakistan
 Poland
 Russian_Federation
-Saint_Pierre_and_Miquelon
 Sweden
 Turkey
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
