@@ -1,5 +1,4 @@
-19 countries tx'ed from
--
+18 countries tx'ed from
 Belgium
 Canada
 China
