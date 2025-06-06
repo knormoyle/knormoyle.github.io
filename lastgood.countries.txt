@@ -1,4 +1,4 @@
-18 countries tx'ed from
+17 countries tx'ed from
 Canada
 China
 Finland
@@ -9,7 +9,6 @@ Mali
 Mexico
 Mongolia
 None
-Norway
 Poland
 Russian_Federation
 Spain
