@@ -1,4 +1,4 @@
-17 countries tx'ed from
+18 countries tx'ed from
 Belgium
 Canada
 Colombia
@@ -6,6 +6,7 @@ Greenland
 Italy
 Japan
 Mexico
+Mongolia
 None
 Norway
 Pakistan
