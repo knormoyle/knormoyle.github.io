@@ -1,6 +1,7 @@
 18 countries tx'ed from
 Belgium
 Canada
+China
 Colombia
 Greenland
 Italy
@@ -9,7 +10,6 @@ Mexico
 Mongolia
 None
 Norway
-Pakistan
 Poland
 Russian_Federation
 Sweden
