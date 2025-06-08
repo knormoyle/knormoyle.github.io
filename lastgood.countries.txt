@@ -1,13 +1,16 @@
-13 countries tx'ed from
-Algeria
+16 countries tx'ed from
 Canada
+Faroe_Islands
+France
 Greenland
-Iceland
 Iran_(Islamic_Republic_of)
 Italy
 Japan
+Libya
 Mexico
+Morocco
 None
+Portugal
 Russian_Federation
 Ukraine
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
