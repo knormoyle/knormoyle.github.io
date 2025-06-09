@@ -1,21 +1,21 @@
 21 countries tx'ed from
 Algeria
 Armenia
-Austria
 Bosnia_and_Herzegovina
 Canada
 China
 Côte_d'Ivoire
+Germany
 Greenland
-Italy
+Iran_(Islamic_Republic_of)
 Japan
 Kazakhstan
 Mexico
 None
-Norway
 Poland
 Russian_Federation
 Spain
+Sweden
 Turkey
 Ukraine
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
