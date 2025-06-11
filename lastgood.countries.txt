@@ -1,4 +1,4 @@
-22 countries tx'ed from
+21 countries tx'ed from
 Algeria
 Canada
 China
@@ -10,7 +10,6 @@ Japan
 Kazakhstan
 Mauritania
 Mexico
-Mongolia
 None
 Norway
 Romania
