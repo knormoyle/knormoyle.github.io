@@ -1,8 +1,6 @@
 19 countries tx'ed from
 Algeria
-Australia
 Canada
-China
 Côte_d'Ivoire
 Greenland
 Iran_(Islamic_Republic_of)
@@ -10,9 +8,11 @@ Japan
 Kazakhstan
 Libya
 Mexico
+Mongolia
 None
 Romania
 Russian_Federation
+Senegal
 Sweden
 Tunisia
 Turkmenistan
