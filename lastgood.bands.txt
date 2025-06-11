@@ -1,8 +1,8 @@
 10m 18
 12m 2
 15m 4
-17m 4
-20m 44
+17m 5
+20m 43
 
 unique trackers: (some wrong identification)
 None 1
