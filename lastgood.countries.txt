@@ -1,4 +1,4 @@
-24 countries tx'ed from
+22 countries tx'ed from
 Algeria
 American_Samoa
 Canada
@@ -7,19 +7,17 @@ Congo,_Democratic_Republic_of_the
 Germany
 Greenland
 Guinea
-Italy
 Jamaica
 Kazakhstan
 Malaysia
 Mexico
 Niger
 None
-Romania
 Russian_Federation
 Sweden
-Switzerland
 Turkey
 Turkmenistan
 Ukraine
+United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
 Viet_Nam
