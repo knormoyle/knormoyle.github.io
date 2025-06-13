@@ -1,21 +1,25 @@
-20 countries tx'ed from
+24 countries tx'ed from
+Algeria
 American_Samoa
 Canada
 China
 Congo,_Democratic_Republic_of_the
-Finland
-France
+Germany
 Greenland
 Guinea
-Iran_(Islamic_Republic_of)
-Japan
-Kyrgyzstan
+Italy
+Jamaica
+Kazakhstan
 Malaysia
-Mauritania
+Mexico
+Niger
 None
+Romania
 Russian_Federation
 Sweden
+Switzerland
 Turkey
+Turkmenistan
 Ukraine
 United_States_of_America
 Viet_Nam
