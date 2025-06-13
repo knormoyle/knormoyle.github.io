@@ -1,4 +1,5 @@
-19 countries tx'ed from
+20 countries tx'ed from
+American_Samoa
 Canada
 China
 Congo,_Democratic_Republic_of_the
@@ -9,12 +10,12 @@ Guinea
 Iran_(Islamic_Republic_of)
 Japan
 Kyrgyzstan
+Malaysia
 Mauritania
-Mongolia
 None
-Romania
 Russian_Federation
 Sweden
 Turkey
+Ukraine
 United_States_of_America
 Viet_Nam
