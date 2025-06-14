@@ -1,10 +1,11 @@
-16 countries tx'ed from
+18 countries tx'ed from
 Albania
 Algeria
 Canada
 China
 El_Salvador
 Estonia
+Greenland
 Malaysia
 Mexico
 Mozambique
@@ -14,4 +15,5 @@ Norway
 Poland
 Russian_Federation
 Turkmenistan
+Ukraine
 United_States_of_America
