@@ -1,8 +1,9 @@
-18 countries tx'ed from
+21 countries tx'ed from
 Algeria
 Bulgaria
 Canada
 China
+Finland
 Greece
 Greenland
 Kyrgyzstan
@@ -13,7 +14,9 @@ Niger
 None
 Norway
 Philippines
+Romania
 Russian_Federation
+Serbia
 Turkey
 Ukraine
 United_States_of_America
