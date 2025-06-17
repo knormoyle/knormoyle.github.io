@@ -1,12 +1,13 @@
-14 countries tx'ed from
+15 countries tx'ed from
+Azerbaijan
 Bulgaria
 Canada
 China
 Finland
 Greenland
 Kazakhstan
+Libya
 Mexico
-Niger
 None
 Norway
 Russian_Federation
