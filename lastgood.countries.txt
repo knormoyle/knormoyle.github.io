@@ -1,16 +1,18 @@
-15 countries tx'ed from
+17 countries tx'ed from
+Algeria
+Argentina
 Canada
-Chile
 China
-Cuba
 Finland
 Greece
 Greenland
 Iran_(Islamic_Republic_of)
+Italy
+Japan
 Kazakhstan
 Mexico
-Morocco
 None
+Panama
+Poland
 Russian_Federation
-United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
