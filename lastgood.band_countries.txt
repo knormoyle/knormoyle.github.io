@@ -1,4 +1,4 @@
-Last updated: 2025-06-21_14:58 (utc)
+Last updated: 2025-06-21_17:03 (utc)
 Thanks to all the picoballoonists and wspr rx spotters worldwide
 Thanks to wsprlive and wsprnet maintainers: https://wspr.live https://wsprnet.org
 Thanks to Doug KD2KDD for traquito web site https://traquito.github.io
@@ -32,12 +32,12 @@ zachtek 8
 14 countries tx'ed from
 Brazil
 Canada
-Cayman_Islands
 China
 Cuba
+Czechia
 Finland
-Germany
 Iran_(Islamic_Republic_of)
+Jamaica
 Kazakhstan
 None
 Panama
