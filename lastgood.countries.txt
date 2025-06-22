@@ -1,12 +1,12 @@
 17 countries tx'ed from
+Australia
+Bosnia_and_Herzegovina
 Brazil
 Canada
 China
 Cuba
-Czechia
 Finland
 Greenland
-Iran_(Islamic_Republic_of)
 Italy
 Kazakhstan
 Mongolia
@@ -15,4 +15,4 @@ Panama
 Russian_Federation
 Turkey
 United_States_of_America
-Uzbekistan
+Viet_Nam
