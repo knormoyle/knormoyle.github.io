@@ -1,4 +1,4 @@
-14 countries tx'ed from
+13 countries tx'ed from
 Australia
 Bulgaria
 Canada
@@ -9,7 +9,6 @@ None
 Panama
 Russian_Federation
 Thailand
-Turkey
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
 Viet_Nam
