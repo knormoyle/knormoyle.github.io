@@ -1,5 +1,5 @@
 10 countries tx'ed from
-Australia
+Bahamas
 Canada
 China
 Greenland
@@ -7,5 +7,5 @@ Mongolia
 None
 Panama
 Russian_Federation
-Svalbard_and_Jan_Mayen
+Sweden
 United_States_of_America
