@@ -1,4 +1,4 @@
-13 countries tx'ed from
+12 countries tx'ed from
 Australia
 Bulgaria
 Canada
@@ -11,4 +11,3 @@ Russian_Federation
 Svalbard_and_Jan_Mayen
 Thailand
 United_States_of_America
-Viet_Nam
