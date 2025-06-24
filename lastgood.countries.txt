@@ -1,5 +1,7 @@
-10 countries tx'ed from
+12 countries tx'ed from
+Australia
 Bahamas
+Cambodia
 Canada
 China
 Greenland
