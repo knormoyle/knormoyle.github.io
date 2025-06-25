@@ -1,11 +1,13 @@
-14 countries tx'ed from
+16 countries tx'ed from
 Belarus
 Brazil
 Canada
 China
 Finland
 France
+Germany
 Greenland
+Mexico
 None
 Poland
 Russian_Federation
