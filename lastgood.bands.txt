@@ -1,20 +1,20 @@
-10m 16
-12m 2
-15m 7
-17m 13
-20m 38
+10m 14
+12m 1
+15m 5
+17m 12
+20m 37
 
 unique trackers: (some wrong identification)
-None 3
+None 4
 ab5ss 2
 ad6z_u4b 4
 kb1vgo 1
 kc3lbr_u4b 5
-other 10
-qrplabs_u4b 7
+other 9
+qrplabs_u4b 3
 r2picotracker 1
 sp0lnd 4
-sp2roc 4
+sp2roc 3
 sp6mpl 4
-traquito_u4b 24
-zachtek 7
+traquito_u4b 23
+zachtek 6
