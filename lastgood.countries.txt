@@ -1,17 +1,16 @@
-16 countries tx'ed from
+15 countries tx'ed from
 Belarus
 Brazil
 Canada
 China
-Finland
-Germany
 Greenland
 Hungary
+Kenya
 Mexico
 None
 Poland
+Romania
 Russian_Federation
-Somalia
 Spain
 Svalbard_and_Jan_Mayen
 United_States_of_America
