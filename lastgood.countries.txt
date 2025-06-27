@@ -1,17 +1,16 @@
-16 countries tx'ed from
+15 countries tx'ed from
 Canada
 China
-Croatia
 Czechia
-Germany
+Faroe_Islands
 Greenland
 Hungary
 Kazakhstan
-Kenya
 Mexico
 Morocco
 None
 Poland
+Romania
 Russian_Federation
-Svalbard_and_Jan_Mayen
+Tanzania,_United_Republic_of
 United_States_of_America
