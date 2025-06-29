@@ -1,18 +1,15 @@
-17 countries tx'ed from
+14 countries tx'ed from
 Australia
 Canada
 China
-Congo,_Democratic_Republic_of_the
+Congo
 Finland
 Greenland
-Hungary
-Iceland
 Kazakhstan
 Mexico
 Mongolia
 None
 Russian_Federation
-Serbia
-Somalia
+Spain
 United_States_of_America
 Viet_Nam
