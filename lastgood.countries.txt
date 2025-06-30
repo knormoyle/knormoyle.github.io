@@ -1,4 +1,4 @@
-14 countries tx'ed from
+15 countries tx'ed from
 Australia
 Canada
 China
@@ -8,8 +8,9 @@ Greenland
 Kazakhstan
 Mexico
 Mongolia
+Netherlands
 None
 Russian_Federation
-Spain
+Sweden
 United_States_of_America
 Viet_Nam
