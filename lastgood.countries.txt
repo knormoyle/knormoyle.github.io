@@ -1,16 +1,21 @@
-15 countries tx'ed from
+20 countries tx'ed from
+Aruba
 Australia
 Canada
 China
-Congo
 Finland
+France
 Greenland
 Kazakhstan
+Kenya
 Mexico
-Mongolia
 Netherlands
 None
+Portugal
 Russian_Federation
+Slovakia
 Sweden
+Switzerland
+Ukraine
 United_States_of_America
 Viet_Nam
