@@ -1,4 +1,4 @@
-22 countries tx'ed from
+21 countries tx'ed from
 Australia
 Canada
 China
@@ -6,7 +6,6 @@ Finland
 Germany
 Greenland
 Kazakhstan
-Latvia
 Mongolia
 Netherlands
 None
