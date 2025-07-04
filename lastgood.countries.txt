@@ -1,23 +1,22 @@
-22 countries tx'ed from
+21 countries tx'ed from
+Argentina
 Australia
+Brazil
 Canada
 China
 Finland
+France
+Georgia
 Germany
-Greece
 Greenland
+Ireland
+Japan
 Kazakhstan
-Mongolia
-Netherlands
+Kenya
 None
 Norway
-Peru
 Poland
 Russian_Federation
-Somalia
-Sweden
+Spain
 Tanzania,_United_Republic_of
-Tunisia
-Turkey
 United_States_of_America
-Viet_Nam
