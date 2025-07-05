@@ -1,21 +1,23 @@
-20 countries tx'ed from
+22 countries tx'ed from
 Argentina
-Australia
-Brazil
+Austria
+Bolivia_(Plurinational_State_of)
 Canada
 China
 Germany
-Greece
 Greenland
 Ireland
-Japan
 Kazakhstan
 Kenya
-Netherlands
+Mongolia
 None
 Norway
 Poland
+Romania
 Russian_Federation
 Spain
+Sweden
 Tanzania,_United_Republic_of
+Turkey
+Ukraine
 United_States_of_America
