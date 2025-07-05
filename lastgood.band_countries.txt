@@ -1,4 +1,4 @@
-Last updated: 2025-07-05_19:48 (utc)
+Last updated: 2025-07-05_23:39 (utc)
 Thanks to all the picoballoonists and wspr rx spotters worldwide
 Thanks to wsprlive and wsprnet maintainers: https://wspr.live https://wsprnet.org
 Thanks to Doug KD2KDD for traquito web site https://traquito.github.io
