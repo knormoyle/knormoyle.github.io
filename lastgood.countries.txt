@@ -1,25 +1,23 @@
-24 countries tx'ed from
+22 countries tx'ed from
 Austria
 Bolivia_(Plurinational_State_of)
 Canada
 China
 Finland
-France
 Germany
 Greenland
 Iran_(Islamic_Republic_of)
 Ireland
-Japan
+Italy
 Kazakhstan
 Kenya
 Mongolia
-Netherlands
 None
 Norway
 Poland
 Romania
 Russian_Federation
 Spain
+Tanzania,_United_Republic_of
 Ukraine
 United_States_of_America
-Zambia
