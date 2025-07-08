@@ -1,24 +1,20 @@
-23 countries tx'ed from
+19 countries tx'ed from
+Algeria
+Australia
 Austria
-Bolivia_(Plurinational_State_of)
+Botswana
+Brazil
 Canada
 China
 Congo,_Democratic_Republic_of_the
-Finland
-Germany
 Greenland
 Iran_(Islamic_Republic_of)
 Ireland
-Japan
 Kazakhstan
-Morocco
-Netherlands
 None
-Poland
 Russian_Federation
-South_Africa
 Spain
 Sweden
+Turkey
 Ukraine
 United_States_of_America
-Zimbabwe
