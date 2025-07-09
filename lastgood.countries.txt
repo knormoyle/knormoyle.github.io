@@ -1,6 +1,4 @@
-15 countries tx'ed from
-Australia
-Botswana
+13 countries tx'ed from
 Brazil
 Canada
 Greece
