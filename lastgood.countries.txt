@@ -1,13 +1,12 @@
-13 countries tx'ed from
-Brazil
+12 countries tx'ed from
+Australia
 Canada
-Greece
+Germany
 Greenland
-Iran_(Islamic_Republic_of)
+Japan
 Kazakhstan
-Korea,_Republic_of
-Mozambique
 None
+Norway
 Russian_Federation
 Sweden
 Turkey
