@@ -1,4 +1,4 @@
-13 countries tx'ed from
+12 countries tx'ed from
 Australia
 Canada
 Greenland
@@ -8,7 +8,6 @@ None
 Pakistan
 Romania
 Russian_Federation
-Svalbard_and_Jan_Mayen
 Sweden
 Turkey
 United_States_of_America
