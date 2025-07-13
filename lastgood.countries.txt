@@ -1,12 +1,14 @@
-12 countries tx'ed from
+14 countries tx'ed from
+Belarus
 Canada
+China
 Finland
 Greenland
 Kazakhstan
 None
-Pakistan
 Romania
 Russian_Federation
+South_Africa
 Turkey
 Ukraine
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
