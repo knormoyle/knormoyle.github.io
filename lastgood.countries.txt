@@ -1,12 +1,11 @@
-11 countries tx'ed from
+10 countries tx'ed from
+Bolivia_(Plurinational_State_of)
 Canada
 China
 Greenland
 Kazakhstan
 None
-Romania
+Norway
 Russian_Federation
-Sweden
-Ukraine
 United_States_Minor_Outlying_Islands
 United_States_of_America
