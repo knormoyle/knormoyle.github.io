@@ -1,11 +1,14 @@
-10 countries tx'ed from
+13 countries tx'ed from
+Argentina
+Bermuda
 Canada
-France
-Germany
 Greenland
+Italy
 Kazakhstan
+Malawi
+Namibia
 None
 Russian_Federation
+Turkey
 Ukraine
 United_States_of_America
-Zimbabwe
