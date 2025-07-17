@@ -1,10 +1,11 @@
-9 countries tx'ed from
-Angola
-Belgium
+10 countries tx'ed from
 Canada
+France
 Germany
-Iceland
+Greenland
 Kazakhstan
 None
 Russian_Federation
+Ukraine
 United_States_of_America
+Zimbabwe
