@@ -1,4 +1,4 @@
-19 countries tx'ed from
+18 countries tx'ed from
 Angola
 Canada
 Ecuador
@@ -10,7 +10,6 @@ Mexico
 Mozambique
 Namibia
 None
-Poland
 Portugal
 Russian_Federation
 Serbia
