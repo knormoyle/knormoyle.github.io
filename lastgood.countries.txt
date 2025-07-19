@@ -1,16 +1,16 @@
 15 countries tx'ed from
-Angola
+Brazil
 Canada
+Germany
+Hungary
 Italy
+Kazakhstan
+Madagascar
 Mexico
-Mozambique
-Namibia
 None
-Peru
-Portugal
+Norway
 Russian_Federation
 Serbia
-Spain
-Turkey
+South_Africa
 Ukraine
 United_States_of_America
