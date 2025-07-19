@@ -1,5 +1,4 @@
 15 countries tx'ed from
-Austria
 Brazil
 Canada
 Hungary
@@ -11,6 +10,7 @@ None
 Norway
 Russian_Federation
 Serbia
+Slovakia
 South_Africa
 Ukraine
 United_States_of_America
