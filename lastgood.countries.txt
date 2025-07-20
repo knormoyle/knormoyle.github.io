@@ -1,16 +1,16 @@
 15 countries tx'ed from
+Bosnia_and_Herzegovina
 Brazil
 Canada
+Croatia
 Hungary
 Italy
 Kazakhstan
-Madagascar
 Mexico
+Mongolia
 None
-Norway
+Romania
 Russian_Federation
-Serbia
-Slovakia
 South_Africa
 Ukraine
 United_States_of_America
