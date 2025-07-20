@@ -1,8 +1,7 @@
-15 countries tx'ed from
-Bosnia_and_Herzegovina
-Brazil
+14 countries tx'ed from
+Bulgaria
 Canada
-Croatia
+Greenland
 Hungary
 Italy
 Kazakhstan
@@ -11,6 +10,6 @@ Mongolia
 None
 Romania
 Russian_Federation
-South_Africa
+Réunion
 Ukraine
 United_States_of_America
