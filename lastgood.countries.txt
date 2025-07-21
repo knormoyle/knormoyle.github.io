@@ -1,15 +1,18 @@
-14 countries tx'ed from
+17 countries tx'ed from
+Australia
+Belarus
 Bulgaria
 Canada
-Greenland
+China
+France
+Germany
 Hungary
 Italy
+Jamaica
 Kazakhstan
-Mexico
 Mongolia
 None
 Romania
 Russian_Federation
-Réunion
-Ukraine
+Sweden
 United_States_of_America
