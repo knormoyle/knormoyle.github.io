@@ -1,5 +1,4 @@
-18 countries tx'ed from
-Antarctica
+17 countries tx'ed from
 Australia
 Belarus
 Bulgaria
@@ -7,9 +6,9 @@ Canada
 China
 France
 Germany
+Greenland
 Hungary
 Italy
-Jamaica
 Kazakhstan
 Mongolia
 None
