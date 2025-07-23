@@ -1,11 +1,13 @@
-14 countries tx'ed from
+16 countries tx'ed from
 Belarus
-Bolivia_(Plurinational_State_of)
+Brazil
 Canada
+Finland
 Germany
 Greenland
 Honduras
 Hungary
+Japan
 Mongolia
 None
 Russian_Federation
