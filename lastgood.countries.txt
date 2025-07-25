@@ -1,14 +1,17 @@
-13 countries tx'ed from
-Belarus
+16 countries tx'ed from
+Australia
 Canada
-Germany
+China
+Cuba
+Estonia
+Gabon
 Greenland
-Hungary
-Jamaica
+Kazakhstan
 None
+Norway
 Russian_Federation
-Slovakia
+Serbia
+Svalbard_and_Jan_Mayen
 Ukraine
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
-Åland_Islands
