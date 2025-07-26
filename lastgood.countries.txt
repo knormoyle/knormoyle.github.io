@@ -1,12 +1,16 @@
-13 countries tx'ed from
+17 countries tx'ed from
+Angola
 Australia
+Brazil
 Canada
-China
 Estonia
+Faroe_Islands
 France
 Gabon
 Greenland
-Haiti
+Ireland
+Japan
+Mexico
 None
 Russian_Federation
 Svalbard_and_Jan_Mayen
