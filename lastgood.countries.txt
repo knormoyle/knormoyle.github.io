@@ -1,15 +1,14 @@
-14 countries tx'ed from
-Angola
+13 countries tx'ed from
 Canada
 Estonia
 Faroe_Islands
-Germany
+France
 Greenland
-Iceland
+Kazakhstan
 Mexico
+Nigeria
 None
-Puerto_Rico
+Norway
 Russian_Federation
-Sao_Tome_and_Principe
 South_Africa
 United_States_of_America
