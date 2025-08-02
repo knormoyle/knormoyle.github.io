@@ -1,15 +1,14 @@
-14 countries tx'ed from
+13 countries tx'ed from
 Australia
-Belarus
-Brazil
 Canada
-China
+Eswatini
+France
 Greenland
 Indonesia
 Mexico
+Mongolia
 None
+Portugal
 Russian_Federation
-South_Africa
-Svalbard_and_Jan_Mayen
 Sweden
 United_States_of_America
