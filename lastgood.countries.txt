@@ -1,5 +1,4 @@
 13 countries tx'ed from
-Australia
 Canada
 Eswatini
 France
@@ -10,5 +9,6 @@ Mongolia
 None
 Portugal
 Russian_Federation
+Svalbard_and_Jan_Mayen
 Sweden
 United_States_of_America
