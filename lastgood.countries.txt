@@ -1,14 +1,13 @@
-13 countries tx'ed from
+12 countries tx'ed from
 Canada
-Eswatini
+China
+Croatia
 France
-Greenland
-Indonesia
+Italy
 Mexico
-Mongolia
 None
 Portugal
 Russian_Federation
-Svalbard_and_Jan_Mayen
-Sweden
+South_Africa
 United_States_of_America
+Western_Sahara
