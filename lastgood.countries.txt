@@ -1,15 +1,16 @@
-14 countries tx'ed from
-Bulgaria
+15 countries tx'ed from
+Australia
 Canada
 Croatia
-Fiji
 France
 Indonesia
 Italy
-Mauritius
+Kazakhstan
 Mexico
 Mozambique
 None
-Portugal
+Romania
 Russian_Federation
+Serbia
+United_States_of_America
 Western_Sahara
