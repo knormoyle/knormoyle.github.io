@@ -1,16 +1,15 @@
-15 countries tx'ed from
+14 countries tx'ed from
 Australia
+Bolivia_(Plurinational_State_of)
 Canada
-Croatia
+Chile
 France
+Germany
 Indonesia
-Italy
+Ireland
 Kazakhstan
-Mexico
-Mozambique
 None
-Romania
+Portugal
 Russian_Federation
 Serbia
 United_States_of_America
-Western_Sahara
