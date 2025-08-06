@@ -1,15 +1,12 @@
-14 countries tx'ed from
-Bolivia_(Plurinational_State_of)
+11 countries tx'ed from
+Brazil
 Canada
-Chile
-China
 France
-Germany
 Indonesia
 Mongolia
 None
-Portugal
 Russian_Federation
 Serbia
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
+Yemen
