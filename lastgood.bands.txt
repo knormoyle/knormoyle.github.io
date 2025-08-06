@@ -10,8 +10,8 @@ ab5ss 4
 ad6z_u4b 5
 kb1vgo 1
 kc3lbr_u4b 4
-other 6
-qrplabs_u4b 6
+other 7
+qrplabs_u4b 5
 sp0lnd 3
 sp2roc 2
 sp6mpl 4
