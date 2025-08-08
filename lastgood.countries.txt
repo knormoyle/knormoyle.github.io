@@ -1,21 +1,23 @@
-20 countries tx'ed from
+22 countries tx'ed from
 Australia
 Austria
-Belgium
 Bermuda
 Canada
 China
 Colombia
 Denmark
+France
 Germany
-Hungary
 Indonesia
 Kazakhstan
 Mexico
 Mongolia
 Morocco
+Netherlands
 None
+Romania
 Russian_Federation
+Slovakia
 Turkey
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
