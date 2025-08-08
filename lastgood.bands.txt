@@ -1,16 +1,16 @@
 10m 17
 15m 4
 17m 10
-20m 32
+20m 31
 30m 2
 
 unique trackers: (some wrong identification)
-None 8
+None 5
 ab5ss 3
 ad6z_u4b 5
 kb1vgo 1
 kc3lbr_u4b 4
-other 6
+other 8
 qrplabs_u4b 6
 sp0lnd 3
 sp2roc 2
