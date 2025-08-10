@@ -1,4 +1,4 @@
-19 countries tx'ed from
+17 countries tx'ed from
 Argentina
 Australia
 Austria
@@ -7,10 +7,8 @@ Bulgaria
 Canada
 China
 Denmark
-Estonia
 Ireland
 Kazakhstan
-New_Zealand
 None
 Peru
 Russian_Federation
