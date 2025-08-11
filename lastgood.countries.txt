@@ -1,20 +1,19 @@
-19 countries tx'ed from
+18 countries tx'ed from
 Argentina
 Australia
 Austria
+Azerbaijan
 Brazil
-Bulgaria
 Canada
 China
-Denmark
+Egypt
 Greenland
 Ireland
 Kazakhstan
-Mongolia
+Korea_(Democratic_People's_Republic_of)
 None
-Peru
-Poland
 Russian_Federation
-Saint_Pierre_and_Miquelon
-Spain
+Saint_Helena,_Ascension_and_Tristan_da_Cunha
+Ukraine
+United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
