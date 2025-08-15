@@ -1,19 +1,16 @@
-18 countries tx'ed from
-Argentina
+15 countries tx'ed from
 Australia
-Austria
-Azerbaijan
-Brazil
+Bermuda
 Canada
 China
-Egypt
+Germany
 Greenland
-Ireland
 Kazakhstan
-Korea_(Democratic_People's_Republic_of)
 None
+Poland
 Russian_Federation
-Saint_Helena,_Ascension_and_Tristan_da_Cunha
-Ukraine
-United_Kingdom_of_Great_Britain_and_Northern_Ireland
+Sweden
+Switzerland
+Tonga
+Turkey
 United_States_of_America
