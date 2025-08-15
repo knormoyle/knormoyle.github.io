@@ -1,11 +1,9 @@
-15 countries tx'ed from
+13 countries tx'ed from
 Australia
-Bermuda
 Canada
 China
-Germany
-Greenland
 Kazakhstan
+Mongolia
 None
 Poland
 Russian_Federation
