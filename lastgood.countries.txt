@@ -1,13 +1,10 @@
-15 countries tx'ed from
+12 countries tx'ed from
 Australia
 Canada
 China
-Egypt
 French_Polynesia
 Greenland
-Iran_(Islamic_Republic_of)
 Kazakhstan
-Mexico
 Mongolia
 Namibia
 None
