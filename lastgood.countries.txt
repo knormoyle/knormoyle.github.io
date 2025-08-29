@@ -1,13 +1,15 @@
-12 countries tx'ed from
-Brazil
+14 countries tx'ed from
+Algeria
+Australia
 Canada
-Italy
-Mexico
-Mongolia
+Germany
+Iceland
+Kazakhstan
 Morocco
 None
+Portugal
 Russian_Federation
 Spain
 Taiwan,_Province_of_China
-Turkey
 United_States_of_America
+Western_Sahara
