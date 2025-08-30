@@ -1,15 +1,22 @@
-14 countries tx'ed from
+21 countries tx'ed from
 Algeria
 Australia
+Brazil
 Canada
+China
+France
 Germany
-Iceland
 Kazakhstan
+Mauritania
+Mexico
+Mongolia
 Morocco
 None
 Portugal
 Russian_Federation
+South_Africa
 Spain
 Taiwan,_Province_of_China
+Tunisia
 United_States_of_America
 Western_Sahara
