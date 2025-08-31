@@ -1,6 +1,5 @@
-11 countries tx'ed from
+13 countries tx'ed from
 Algeria
-Brazil
 Canada
 China
 Mexico
@@ -8,5 +7,8 @@ Mongolia
 None
 Portugal
 Russian_Federation
+South_Africa
 Spain
+Tunisia
+United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
