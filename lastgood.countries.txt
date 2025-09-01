@@ -1,13 +1,15 @@
-12 countries tx'ed from
+14 countries tx'ed from
 Algeria
+Brazil
 Canada
 China
+Greece
 Greenland
-Malta
+Libya
 Mexico
 None
 Portugal
 Russian_Federation
-South_Africa
-United_Kingdom_of_Great_Britain_and_Northern_Ireland
+Samoa
+Spain
 United_States_of_America
