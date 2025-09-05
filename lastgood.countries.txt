@@ -1,22 +1,19 @@
-21 countries tx'ed from
+18 countries tx'ed from
 Angola
 Australia
 Bulgaria
 Canada
-Finland
 France
 Germany
 Greenland
-Hungary
 Japan
 Kazakhstan
 Mongolia
-Netherlands
 Nicaragua
 None
 Poland
 Portugal
 Russian_Federation
+Slovakia
 South_Africa
-Taiwan,_Province_of_China
 United_States_of_America
