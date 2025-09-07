@@ -1,16 +1,21 @@
-15 countries tx'ed from
-Angola
-Bulgaria
+20 countries tx'ed from
+Algeria
+Brazil
 Canada
-Finland
+China
+Czechia
 France
+Honduras
+Ireland
+Italy
 Kazakhstan
 Mongolia
 Nicaragua
 None
 Poland
 Russian_Federation
-Spain
+Switzerland
+Tunisia
 Turkey
 United_States_of_America
-Uruguay
+Zambia
