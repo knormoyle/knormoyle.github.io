@@ -1,25 +1,21 @@
-24 countries tx'ed from
+20 countries tx'ed from
+Algeria
 Australia
 Canada
+Chile
 China
 Denmark
-Ecuador
 El_Salvador
-Iceland
+France
+Hungary
+Ireland
 Kazakhstan
-Madagascar
-Mongolia
-Morocco
-Nicaragua
+Libya
+Lithuania
+Netherlands
 None
-Palestine,_State_of
 Philippines
-Romania
 Russian_Federation
-Serbia
-Spain
-Sweden
+Taiwan,_Province_of_China
 Turkey
-United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
-Western_Sahara
