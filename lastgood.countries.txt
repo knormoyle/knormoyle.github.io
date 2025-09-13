@@ -1,21 +1,18 @@
-20 countries tx'ed from
+17 countries tx'ed from
 Algeria
 Australia
 Canada
-Chile
 China
 Denmark
 El_Salvador
+Estonia
 France
+Greece
 Hungary
-Ireland
 Kazakhstan
-Libya
-Lithuania
-Netherlands
 None
+Paraguay
 Philippines
 Russian_Federation
-Taiwan,_Province_of_China
 Turkey
 United_States_of_America
