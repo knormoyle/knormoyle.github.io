@@ -1,21 +1,22 @@
-20 countries tx'ed from
+21 countries tx'ed from
 Algeria
-Bahamas
-Bermuda
+Australia
+Azerbaijan
 Brazil
 Canada
 China
 Cuba
 France
 Germany
-Hungary
 Kazakhstan
+Kyrgyzstan
+Mexico
+Moldova,_Republic_of
 Morocco
 None
-Norway
 Poland
 Russian_Federation
 Sweden
 Turkey
-Turkmenistan
+Ukraine
 United_States_of_America
