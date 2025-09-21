@@ -1,21 +1,18 @@
-20 countries tx'ed from
-Argentina
+17 countries tx'ed from
+Algeria
 Australia
-Azerbaijan
+Belgium
 Brazil
-Canada
 China
 Cuba
+Finland
 France
 Germany
 Hungary
 Kazakhstan
-Kyrgyzstan
 Mongolia
-Morocco
 None
+Romania
 Russian_Federation
-Spain
-Turkey
+Sweden
 United_States_of_America
-Uzbekistan
