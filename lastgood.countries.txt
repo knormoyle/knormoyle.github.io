@@ -1,15 +1,17 @@
-14 countries tx'ed from
+16 countries tx'ed from
 Belarus
 Canada
 China
-France
-Iran_(Islamic_Republic_of)
+Germany
+Iraq
 Mexico
 Mongolia
+Netherlands
 None
+Palestine,_State_of
 Poland
+Romania
 Russian_Federation
-Tajikistan
 Turkey
-Turkmenistan
+Ukraine
 United_States_of_America
