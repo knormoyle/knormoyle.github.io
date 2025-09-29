@@ -1,19 +1,19 @@
 18 countries tx'ed from
-Belarus
-Botswana
+Belgium
 Canada
 China
+Cyprus
+Germany
 Greenland
-Iraq
-Libya
 Mauritania
-Mongolia
 None
+Norway
 Palestine,_State_of
 Peru
 Poland
 Romania
 Russian_Federation
+Taiwan,_Province_of_China
 Turkey
 Ukraine
 United_States_of_America
