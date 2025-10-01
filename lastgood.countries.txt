@@ -1,19 +1,20 @@
-18 countries tx'ed from
+19 countries tx'ed from
 Afghanistan
-Algeria
-Brazil
 Canada
 China
+France
 Germany
 Greenland
-Japan
+Ireland
+Kazakhstan
+Libya
 Mexico
 Moldova,_Republic_of
 None
 Poland
-Romania
 Russian_Federation
-Saint_Pierre_and_Miquelon
-Turkmenistan
-United_Kingdom_of_Great_Britain_and_Northern_Ireland
+South_Africa
+Spain
+Turkey
 United_States_of_America
+Venezuela_(Bolivarian_Republic_of)
