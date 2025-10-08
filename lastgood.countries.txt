@@ -1,17 +1,18 @@
-16 countries tx'ed from
+17 countries tx'ed from
 Argentina
 Australia
-Brazil
-Bulgaria
 Canada
-Croatia
+China
+Costa_Rica
 Greenland
-Kazakhstan
 Mauritania
 Mexico
+Morocco
 None
-Pakistan
+Philippines
+Poland
+Romania
 Russian_Federation
-Spain
+Ukraine
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
