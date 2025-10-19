@@ -1,11 +1,11 @@
 10m 7
 15m 1
-17m 11
+17m 10
 20m 31
-30m 4
+30m 3
 
 unique trackers: (some wrong identification)
-None 13
+None 11
 ag6ns 1
 kc3lbr_u4b 5
 other 1
