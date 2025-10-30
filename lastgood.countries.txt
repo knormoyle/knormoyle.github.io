@@ -1,19 +1,12 @@
-18 countries tx'ed from
-Argentina
-Australia
+11 countries tx'ed from
 Canada
-Chile
 China
-Guernsey
-Iran_(Islamic_Republic_of)
-Kazakhstan
-Mauritania
-Mexico
-Mongolia
+Croatia
+France
+Greenland
+Italy
 None
-Poland
-Romania
+Norway
 Russian_Federation
 Turkey
-Ukraine
 United_States_of_America
