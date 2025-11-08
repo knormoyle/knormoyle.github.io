@@ -1,14 +1,12 @@
-13 countries tx'ed from
-Afghanistan
+11 countries tx'ed from
 China
-Colombia
-Greenland
+Hungary
+Iceland
+India
 Iraq
 Kazakhstan
-Kyrgyzstan
 Mauritania
-Mongolia
+Niger
 None
-Saudi_Arabia
-Tajikistan
-Ukraine
+United_States_of_America
+Venezuela_(Bolivarian_Republic_of)
