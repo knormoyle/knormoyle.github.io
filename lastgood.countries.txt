@@ -1,17 +1,19 @@
-16 countries tx'ed from
+18 countries tx'ed from
+Argentina
+Bulgaria
+Canada
 Chile
 China
-France
 Germany
+Greece
+Iran_(Islamic_Republic_of)
+Jordan
 Korea_(Democratic_People's_Republic_of)
-Mali
+Libya
+Mexico
+Mongolia
 Namibia
-Niger
 None
-Peru
-Poland
-Portugal
+Romania
 Russian_Federation
-Sweden
 United_States_of_America
-Venezuela_(Bolivarian_Republic_of)
