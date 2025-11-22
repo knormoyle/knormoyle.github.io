@@ -1,19 +1,16 @@
-18 countries tx'ed from
-Antarctica
-Argentina
+15 countries tx'ed from
 Australia
+Bouvet_Island
 Canada
 China
-Congo,_Democratic_Republic_of_the
 Croatia
-Eritrea
-Greece
+Egypt
+France
+Honduras
+Iraq
 Italy
-Japan
+Kazakhstan
+Libya
 None
-Russian_Federation
-Saudi_Arabia
-Turkey
-Turkmenistan
+Switzerland
 United_States_of_America
-Uzbekistan
