@@ -1,17 +1,20 @@
-16 countries tx'ed from
+19 countries tx'ed from
+Afghanistan
 Algeria
 Antarctica
-Bahamas
+Argentina
+Bulgaria
 Canada
 China
 Colombia
-France
+Germany
 India
-Kazakhstan
-Mongolia
+Kyrgyzstan
+Mali
+Mauritania
 None
+Poland
 Romania
 Russian_Federation
-Saudi_Arabia
 United_States_of_America
 Zambia
