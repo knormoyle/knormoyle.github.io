@@ -1,19 +1,17 @@
-18 countries tx'ed from
+16 countries tx'ed from
 Algeria
-Antarctica
+Bosnia_and_Herzegovina
 Bulgaria
 China
 Colombia
 Germany
 India
-Iran_(Islamic_Republic_of)
 Libya
 Mauritania
 None
-Oman
 Poland
 Romania
 Russian_Federation
+United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
-Western_Sahara
 Zambia
