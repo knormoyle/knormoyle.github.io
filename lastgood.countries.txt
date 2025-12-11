@@ -1,15 +1,16 @@
-14 countries tx'ed from
+15 countries tx'ed from
 Algeria
 Argentina
 Belgium
 Canada
 China
-Finland
+Egypt
+France
 India
-Iran_(Islamic_Republic_of)
 Libya
-Mali
 Mexico
 Morocco
 None
+Panama
+Tunisia
 United_States_of_America
