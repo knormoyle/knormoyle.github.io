@@ -1,16 +1,19 @@
-15 countries tx'ed from
+18 countries tx'ed from
 Algeria
+Antarctica
 Argentina
 Belgium
 Canada
 China
-Egypt
-France
-India
+Germany
 Libya
 Mexico
 Morocco
 None
-Panama
-Tunisia
+Pakistan
+Russian_Federation
+Spain
+Turkey
 United_States_of_America
+Venezuela_(Bolivarian_Republic_of)
+Western_Sahara
