@@ -1,18 +1,16 @@
-17 countries tx'ed from
+15 countries tx'ed from
 Antarctica
 Australia
-Belgium
 Canada
 China
 Czechia
 Egypt
+Guinea
 Iran_(Islamic_Republic_of)
-Mauritania
 Mexico
 Morocco
 None
 Russian_Federation
-Tajikistan
-Tunisia
+Saudi_Arabia
 Turkey
 United_States_of_America
