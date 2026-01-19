@@ -1,16 +1,11 @@
-15 countries tx'ed from
-Antarctica
+10 countries tx'ed from
 Australia
 Canada
 China
-Czechia
 Egypt
-Guinea
-Iran_(Islamic_Republic_of)
-Mexico
-Morocco
+France
+Greece
+Greenland
 None
 Russian_Federation
-Saudi_Arabia
-Turkey
 United_States_of_America
