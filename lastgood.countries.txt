@@ -1,11 +1,12 @@
-10 countries tx'ed from
+11 countries tx'ed from
+Algeria
 Australia
-Canada
-China
-Egypt
 France
 Greece
 Greenland
+Mexico
+Morocco
 None
+Pakistan
 Russian_Federation
 United_States_of_America
