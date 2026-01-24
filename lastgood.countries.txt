@@ -1,18 +1,17 @@
-17 countries tx'ed from
-Australia
-Azerbaijan
-Bermuda
+16 countries tx'ed from
+Algeria
+Argentina
 Canada
 China
-Cuba
 Germany
-Greece
-Greenland
-Kazakhstan
-Libya
-Mauritania
-Mexico
+Guyana
+Hungary
+Iran_(Islamic_Republic_of)
 None
+Norway
+Pakistan
 Russian_Federation
-Tunisia
+Saudi_Arabia
+Spain
+Sweden
 United_States_of_America
