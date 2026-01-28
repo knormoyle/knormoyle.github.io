@@ -1,15 +1,11 @@
-14 countries tx'ed from
+10 countries tx'ed from
 Afghanistan
-Bangladesh
-China
+Canada
+Egypt
 India
-Ireland
+Iran_(Islamic_Republic_of)
+Japan
 Kazakhstan
-Libya
-Mali
-Nicaragua
 None
-Norway
 Russian_Federation
-Saudi_Arabia
 United_States_of_America
