@@ -1,11 +1,12 @@
-10 countries tx'ed from
-Afghanistan
-Canada
-Egypt
-India
-Iran_(Islamic_Republic_of)
-Japan
-Kazakhstan
+11 countries tx'ed from
+Algeria
+Botswana
+Chad
+China
+Iraq
+Mali
+Mauritania
 None
 Russian_Federation
 United_States_of_America
+Åland_Islands
