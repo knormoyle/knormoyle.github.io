@@ -4,10 +4,11 @@
 20m 15
 
 unique trackers: (some wrong identification)
-None 10
+None 7
 ad6z_u4b 1
 ag6ns 1
 kc3lbr_u4b 5
-other 9
+other 5
+qrplabs_u4b 1
 sp6mpl 2
-traquito_u4b 14
+traquito_u4b 20
