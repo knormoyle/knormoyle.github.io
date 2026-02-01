@@ -1,12 +1,13 @@
-11 countries tx'ed from
+12 countries tx'ed from
 Algeria
-Botswana
 Chad
-China
-Iraq
-Mali
-Mauritania
+Egypt
+Greece
+India
+Italy
 None
 Russian_Federation
+South_Africa
 United_States_of_America
+Zambia
 Åland_Islands
