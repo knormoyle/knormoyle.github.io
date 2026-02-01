@@ -1,4 +1,4 @@
-Last updated: 2026-01-31_18:40 (utc)
+Last updated: 2026-02-01_18:53 (utc)
 Thanks to all the picoballoonists and wspr rx spotters worldwide
 Thanks to wsprlive and wsprnet maintainers: https://wspr.live https://wsprnet.org
 Thanks to Andy for wsprtv multi-protocol flight viewer https://wsprtv.com
@@ -16,23 +16,25 @@ google chrome or microsoft edge: <ctrl> + F5
 20m 15
 
 unique trackers: (some wrong identification)
-None 10
+None 7
 ad6z_u4b 1
 ag6ns 1
 kc3lbr_u4b 5
-other 9
+other 5
+qrplabs_u4b 1
 sp6mpl 2
-traquito_u4b 14
+traquito_u4b 20
 
-11 countries tx'ed from
+12 countries tx'ed from
 Algeria
-Botswana
 Chad
-China
-Iraq
-Mali
-Mauritania
+Egypt
+Greece
+India
+Italy
 None
 Russian_Federation
+South_Africa
 United_States_of_America
+Zambia
 Åland_Islands
