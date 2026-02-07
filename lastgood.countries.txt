@@ -1,19 +1,16 @@
-18 countries tx'ed from
+15 countries tx'ed from
 Canada
-Chad
 China
-India
-Japan
+Greece
+Iraq
 Kazakhstan
 Mexico
-Niger
 None
-Saudi_Arabia
-Spain
+Pakistan
+Russian_Federation
+South_Africa
 Sudan
-Sweden
 Switzerland
-Syrian_Arab_Republic
+Turkmenistan
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
-Western_Sahara
