@@ -1,9 +1,9 @@
-Last updated: 2026-02-07_17:20 (utc)
+Last updated: 2026-02-07_17:45 (utc)
 Thanks to all the picoballoonists and wspr rx spotters worldwide
 Thanks to wsprlive and wsprnet maintainers: https://wspr.live https://wsprnet.org
 Thanks to Andy for wsprtv multi-protocol flight viewer https://wsprtv.com
 Thanks to Doug KD2KDD for traquito web site https://traquito.github.io
-Thanks to Pedro LU7AA for: http://lu7aa.org.ar/wsprx.asp
+Thanks to Pedro LU7AA for: http://balloons.browxy.com/wsprset
 Thanks to amateur.sondehub maintainers: https://amateur.sondehub.org
 maintainer: Kevin AD6Z (Feedback: can find my email at qrz.com)
 
