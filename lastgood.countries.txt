@@ -1,13 +1,15 @@
-12 countries tx'ed from
+14 countries tx'ed from
 Canada
 China
-Greece
+Germany
+India
+Iran_(Islamic_Republic_of)
+Kazakhstan
+Mauritania
+Mongolia
 None
-Oman
 Russian_Federation
-South_Africa
 Sudan
-Switzerland
 Turkmenistan
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
