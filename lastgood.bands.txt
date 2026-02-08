@@ -1,6 +1,6 @@
 10m 18
 12m 2
-15m 3
+15m 4
 17m 11
 20m 18
 
@@ -9,7 +9,7 @@ None 14
 ad6z_u4b 1
 ag6ns 1
 kc3lbr_u4b 5
-other 1
+other 2
 qrplabs_u4b 2
 sp6mpl 2
 traquito_u4b 25
