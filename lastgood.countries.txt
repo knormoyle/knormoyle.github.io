@@ -1,12 +1,9 @@
-15 countries tx'ed from
+12 countries tx'ed from
 Canada
 China
 Greece
-Iraq
-Kazakhstan
-Mexico
 None
-Pakistan
+Oman
 Russian_Federation
 South_Africa
 Sudan
