@@ -1,4 +1,4 @@
-16 countries tx'ed from
+15 countries tx'ed from
 Canada
 China
 French_Guiana
@@ -13,5 +13,4 @@ None
 Russian_Federation
 Sudan
 Turkmenistan
-United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
