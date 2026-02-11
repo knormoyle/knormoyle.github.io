@@ -1,20 +1,24 @@
-19 countries tx'ed from
+23 countries tx'ed from
+Algeria
+Bulgaria
 Canada
 China
-Germany
+Denmark
+Egypt
+France
 India
 Iran_(Islamic_Republic_of)
-Mali
-Mauritania
-Mexico
-Netherlands
+Libya
+Malta
+Mozambique
 None
+Philippines
 Romania
 Russian_Federation
-Saudi_Arabia
+Saint_Kitts_and_Nevis
 Senegal
+Switzerland
+Tunisia
 Turkey
-Turkmenistan
-United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
 Venezuela_(Bolivarian_Republic_of)
