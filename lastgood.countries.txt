@@ -1,4 +1,4 @@
-14 countries tx'ed from
+13 countries tx'ed from
 China
 Guyana
 India
@@ -9,7 +9,6 @@ Mongolia
 None
 Portugal
 Romania
-Tunisia
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
 Western_Sahara
