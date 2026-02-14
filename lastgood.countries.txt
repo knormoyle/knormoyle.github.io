@@ -1,14 +1,15 @@
-13 countries tx'ed from
+14 countries tx'ed from
 Canada
 China
 Czechia
 Guyana
 India
+Jordan
 Kazakhstan
 Mexico
 None
 Portugal
-Syrian_Arab_Republic
-United_Kingdom_of_Great_Britain_and_Northern_Ireland
+Russian_Federation
+Sweden
 United_States_of_America
 Western_Sahara
