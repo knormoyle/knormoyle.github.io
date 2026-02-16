@@ -1,6 +1,6 @@
-19 countries tx'ed from
+18 countries tx'ed from
+Afghanistan
 Algeria
-Azerbaijan
 Brazil
 Canada
 China
@@ -8,7 +8,6 @@ Estonia
 Italy
 Kazakhstan
 Mexico
-Mongolia
 Montenegro
 Niger
 None
