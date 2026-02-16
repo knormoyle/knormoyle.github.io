@@ -1,4 +1,4 @@
-10m 29
+10m 28
 12m 2
 15m 9
 17m 13
@@ -11,9 +11,10 @@ ab5ss 2
 ag6ns 1
 kb1vgo 1
 kc3lbr_u4b 4
+m7gaq_u4b 1
 other 4
 qrplabs_u4b 9
 sp2roc 1
 sp6mpl 2
-traquito_u4b 34
-zachtek 12
+traquito_u4b 33
+zachtek 11
