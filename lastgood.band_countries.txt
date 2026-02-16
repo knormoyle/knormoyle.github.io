@@ -1,4 +1,4 @@
-Last updated: 2026-02-16_12:49 (utc)
+Last updated: 2026-02-16_17:48 (utc)
 Thanks to all the picoballoonists and wspr rx spotters worldwide
 Thanks to wsprlive and wsprnet maintainers: https://wspr.live https://wsprnet.org
 Thanks to Andy for wsprtv multi-protocol flight viewer https://wsprtv.com
@@ -10,9 +10,9 @@ maintainer: Kevin AD6Z (Feedback: can find my email at qrz.com)
 You can hard refresh your browser in case the following text data is stale in browser cache.
 google chrome or microsoft edge: <ctrl> + F5
 
-10m 28
+10m 27
 12m 2
-15m 9
+15m 8
 17m 13
 20m 29
 30m 2
@@ -25,7 +25,7 @@ kb1vgo 1
 kc3lbr_u4b 4
 m7gaq_u4b 1
 other 4
-qrplabs_u4b 9
+qrplabs_u4b 7
 sp2roc 1
 sp6mpl 2
 traquito_u4b 33
