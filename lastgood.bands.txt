@@ -1,6 +1,6 @@
-10m 28
+10m 27
 12m 2
-15m 9
+15m 8
 17m 13
 20m 29
 30m 2
@@ -13,7 +13,7 @@ kb1vgo 1
 kc3lbr_u4b 4
 m7gaq_u4b 1
 other 4
-qrplabs_u4b 9
+qrplabs_u4b 7
 sp2roc 1
 sp6mpl 2
 traquito_u4b 33
