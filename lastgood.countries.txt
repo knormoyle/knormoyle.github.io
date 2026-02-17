@@ -1,5 +1,6 @@
-18 countries tx'ed from
+20 countries tx'ed from
 Afghanistan
+Azerbaijan
 Brazil
 Canada
 China
@@ -7,13 +8,14 @@ Estonia
 French_Guiana
 Italy
 Kazakhstan
-Libya
+Kyrgyzstan
+Mali
 Mauritania
 Mexico
 Montenegro
 None
 Poland
-Qatar
 Russian_Federation
+Saudi_Arabia
 South_Africa
 United_States_of_America
