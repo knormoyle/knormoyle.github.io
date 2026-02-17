@@ -1,12 +1,15 @@
-19 countries tx'ed from
+22 countries tx'ed from
 Algeria
 Brazil
 Canada
 China
 Estonia
+French_Guiana
+India
 Italy
 Kazakhstan
 Kyrgyzstan
+Latvia
 Mali
 Mexico
 Montenegro
@@ -16,5 +19,5 @@ Pakistan
 Poland
 Russian_Federation
 South_Africa
+Turkmenistan
 United_States_of_America
-Western_Sahara
