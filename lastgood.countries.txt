@@ -6,8 +6,9 @@ China
 Ecuador
 Estonia
 Faroe_Islands
+French_Guiana
 Germany
-India
+Greece
 Italy
 Latvia
 Libya
@@ -20,5 +21,4 @@ Poland
 Russian_Federation
 Saudi_Arabia
 Spain
-United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
