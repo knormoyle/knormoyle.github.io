@@ -5,14 +5,13 @@
 20m 36
 
 unique trackers: (some wrong identification)
-None 12
-ab5ss 1
+None 14
 ag6ns 1
 kb1vgo 1
 kc3lbr_u4b 5
-other 5
+other 7
 qrplabs_u4b 2
 sp2roc 1
 sp6mpl 4
-traquito_u4b 35
-zachtek 14
+traquito_u4b 31
+zachtek 15
