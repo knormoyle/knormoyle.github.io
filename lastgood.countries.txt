@@ -1,4 +1,4 @@
-25 countries tx'ed from
+24 countries tx'ed from
 Algeria
 Canada
 China
@@ -21,6 +21,5 @@ Poland
 Russian_Federation
 Sudan
 Turkmenistan
-Turks_and_Caicos_Islands
 Ukraine
 United_States_of_America
