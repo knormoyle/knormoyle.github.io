@@ -1,12 +1,12 @@
-10m 29
-12m 3
-15m 25
-17m 16
-20m 51
-30m 10
+10m 25
+12m 2
+15m 19
+17m 15
+20m 41
+30m 2
 
 unique trackers: (some wrong identification)
-None 39
+None 9
 ab5ss 2
 ad6z_u4b 1
 ag6ns 1
