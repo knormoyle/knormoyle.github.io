@@ -1,19 +1,21 @@
-18 countries tx'ed from
-Algeria
+20 countries tx'ed from
 Canada
 China
-Colombia
 Egypt
 France
+Germany
+Greenland
+Guatemala
 India
+Indonesia
 Iraq
+Italy
 Kazakhstan
+Libya
 Mexico
-Mongolia
+Morocco
 None
-Pakistan
 Russian_Federation
 Saudi_Arabia
-Sweden
 United_States_of_America
 Uzbekistan
