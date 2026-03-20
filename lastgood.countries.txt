@@ -1,4 +1,4 @@
-20 countries tx'ed from
+19 countries tx'ed from
 Algeria
 Canada
 China
@@ -6,7 +6,6 @@ Côte_d'Ivoire
 France
 Germany
 Greenland
-Iceland
 India
 Iraq
 Italy
