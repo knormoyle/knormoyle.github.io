@@ -1,4 +1,4 @@
-Last updated: 2026-03-23_18:49 (utc)
+Last updated: 2026-03-23_19:16 (utc)
 Thanks to all the picoballoonists and wspr rx spotters worldwide
 Thanks to wsprlive and wsprnet maintainers: https://wspr.live https://wsprnet.org
 Thanks to Andy for wsprtv multi-protocol flight viewer https://wsprtv.com
@@ -14,7 +14,7 @@ google chrome or microsoft edge: <ctrl> + F5
 12m 1
 15m 19
 17m 15
-20m 45
+20m 43
 
 unique trackers: (some wrong identification)
 None 3
@@ -28,9 +28,9 @@ qrplabs_u4b 7
 sp2roc 2
 sp6mpl 3
 traquito_u4b 42
-zachtek 22
+zachtek 20
 
-32 countries tx'ed from
+31 countries tx'ed from
 Algeria
 Australia
 Burkina_Faso
@@ -55,7 +55,6 @@ New_Zealand
 None
 Norway
 Palestine,_State_of
-Portugal
 Russian_Federation
 Spain
 Tanzania,_United_Republic_of
