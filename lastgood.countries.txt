@@ -1,4 +1,4 @@
-32 countries tx'ed from
+31 countries tx'ed from
 Algeria
 Australia
 Burkina_Faso
@@ -23,7 +23,6 @@ New_Zealand
 None
 Norway
 Palestine,_State_of
-Portugal
 Russian_Federation
 Spain
 Tanzania,_United_Republic_of
