@@ -1,10 +1,10 @@
-28 countries tx'ed from
+27 countries tx'ed from
 Australia
-Bermuda
 Canada
 Chile
 Cyprus
 Côte_d'Ivoire
+Egypt
 France
 French_Southern_Territories
 Germany
@@ -12,7 +12,6 @@ Greenland
 India
 Iran_(Islamic_Republic_of)
 Kazakhstan
-Libya
 Mexico
 Morocco
 Nepal
