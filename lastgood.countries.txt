@@ -1,21 +1,21 @@
-29 countries tx'ed from
+30 countries tx'ed from
 Algeria
 Australia
+Belize
 Canada
 Chad
 Chile
 China
 Cyprus
 Egypt
+Falkland_Islands_(Malvinas)
 Germany
-Grenada
 India
 Iran_(Islamic_Republic_of)
 Kazakhstan
 Mexico
 Mongolia
 Morocco
-New_Zealand
 None
 Norway
 Palestine,_State_of
@@ -26,5 +26,6 @@ Tanzania,_United_Republic_of
 Turkey
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
+Venezuela_(Bolivarian_Republic_of)
 Western_Sahara
 Yemen
