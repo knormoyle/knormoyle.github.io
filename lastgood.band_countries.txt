@@ -1,4 +1,4 @@
-Last updated: 2026-03-24_15:18 (utc)
+Last updated: 2026-03-24_15:23 (utc)
 Thanks to all the picoballoonists and wspr rx spotters worldwide
 Thanks to wsprlive and wsprnet maintainers: https://wspr.live https://wsprnet.org
 Thanks to Andy for wsprtv multi-protocol flight viewer https://wsprtv.com
@@ -14,7 +14,7 @@ google chrome or microsoft edge: <ctrl> + F5
 12m 2
 15m 19
 17m 14
-20m 48
+20m 47
 
 unique trackers: (some wrong identification)
 None 7
@@ -27,7 +27,7 @@ other 11
 qrplabs_u4b 7
 sp2roc 2
 sp6mpl 4
-traquito_u4b 43
+traquito_u4b 42
 zachtek 16
 
 29 countries tx'ed from
