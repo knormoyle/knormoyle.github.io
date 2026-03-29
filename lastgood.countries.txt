@@ -1,11 +1,10 @@
-23 countries tx'ed from
+22 countries tx'ed from
 Algeria
 Antarctica
 Australia
 Belgium
 Canada
 China
-Cyprus
 Egypt
 Estonia
 Germany
