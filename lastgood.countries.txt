@@ -1,27 +1,19 @@
-26 countries tx'ed from
-Afghanistan
-Australia
-Azerbaijan
+18 countries tx'ed from
+Algeria
 Bahamas
 Belgium
-Brazil
 Canada
 China
 France
 Germany
 Greenland
 India
-Iraq
-Japan
-Kazakhstan
-Mali
+Libya
 Mexico
 None
-Oman
 Poland
 Russian_Federation
-Tunisia
 Turkey
+Turkmenistan
 United_States_of_America
 Venezuela_(Bolivarian_Republic_of)
-Western_Sahara
