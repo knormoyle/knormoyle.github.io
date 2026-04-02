@@ -1,5 +1,5 @@
-25 countries tx'ed from
-Algeria
+29 countries tx'ed from
+Anguilla
 Australia
 Bahamas
 Belgium
@@ -14,13 +14,17 @@ Iran_(Islamic_Republic_of)
 Iraq
 Ireland
 Italy
-Korea_(Democratic_People's_Republic_of)
+Korea,_Republic_of
+Libya
 Mexico
 None
+North_Macedonia
+Norway
+Pakistan
 Poland
 Russian_Federation
 Turkey
-Turkmenistan
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
+Uzbekistan
 Venezuela_(Bolivarian_Republic_of)
