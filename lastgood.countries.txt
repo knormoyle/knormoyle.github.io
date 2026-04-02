@@ -1,21 +1,26 @@
-20 countries tx'ed from
+25 countries tx'ed from
 Algeria
+Australia
 Bahamas
 Belgium
 Canada
 China
 France
 Germany
+Greece
 Greenland
 India
+Iran_(Islamic_Republic_of)
+Iraq
 Ireland
-Libya
-Malta
+Italy
+Korea_(Democratic_People's_Republic_of)
 Mexico
 None
 Poland
 Russian_Federation
 Turkey
 Turkmenistan
+United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
 Venezuela_(Bolivarian_Republic_of)
