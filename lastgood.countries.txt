@@ -1,4 +1,4 @@
-21 countries tx'ed from
+20 countries tx'ed from
 Algeria
 Bahamas
 Belgium
@@ -17,6 +17,5 @@ Poland
 Russian_Federation
 Turkey
 Turkmenistan
-Turks_and_Caicos_Islands
 United_States_of_America
 Venezuela_(Bolivarian_Republic_of)
