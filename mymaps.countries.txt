@@ -1,4 +1,4 @@
-23 countries tx'ed from
+21 countries tx'ed from
 Algeria
 Brazil
 Canada
@@ -8,7 +8,6 @@ Hungary
 India
 Iran_(Islamic_Republic_of)
 Iraq
-Italy
 Kazakhstan
 Kyrgyzstan
 Libya
@@ -16,7 +15,6 @@ Mauritania
 Mexico
 Myanmar
 None
-Portugal
 Romania
 Russian_Federation
 Taiwan__Province_of_China
