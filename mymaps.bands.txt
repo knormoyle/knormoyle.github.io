@@ -15,5 +15,5 @@ sa6bss_u4b 12
 sp2roc 1
 sp6mpl 1
 traquito_u4b 40
-wb8elk 3
-zachtek 22
+wb8elk 2
+zachtek 23
