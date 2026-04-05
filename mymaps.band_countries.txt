@@ -1,4 +1,4 @@
-Last updated: 2026-04-05_17:30 (utc)
+Last updated: 2026-04-05_19:04 (utc)
 Thanks to all the picoballoonists and wspr rx spotters worldwide
 Thanks to wsprlive and wsprnet maintainers: https://wspr.live https://wsprnet.org
 Thanks to Andy for wsprtv multi-protocol flight viewer https://wsprtv.com
@@ -27,8 +27,8 @@ sa6bss_u4b 12
 sp2roc 1
 sp6mpl 1
 traquito_u4b 40
-wb8elk 3
-zachtek 22
+wb8elk 2
+zachtek 23
 
 24 countries tx'ed from
 Algeria
