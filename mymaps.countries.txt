@@ -1,15 +1,19 @@
-24 countries tx'ed from
+29 countries tx'ed from
 Algeria
+Bangladesh
 Brazil
 Canada
+Cayman_Islands
+Chile
 China
-Cyprus
+Colombia
 France
 Greenland
 Hungary
 India
 Iran_(Islamic_Republic_of)
 Italy
+Japan
 Kazakhstan
 Mauritania
 Mexico
@@ -20,6 +24,7 @@ Peru
 Poland
 Romania
 Russian_Federation
+Saint_Kitts_and_Nevis
 Spain
 Ukraine
 United_States_of_America
