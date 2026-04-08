@@ -1,24 +1,27 @@
-23 countries tx'ed from
+26 countries tx'ed from
+Albania
 Algeria
-Austria
+Azerbaijan
+Belize
 Brazil
 Canada
 China
 Colombia
+Egypt
 Germany
+Greece
 Greenland
-Ireland
+India
+Iraq
 Italy
-Kazakhstan
+Libya
 Mauritania
 Mexico
-Morocco
-Mozambique
+Mongolia
 None
-Pakistan
 Romania
 Russian_Federation
 Saudi_Arabia
-Turkey
+Tunisia
 Turkmenistan
 United_States_of_America
