@@ -1,6 +1,7 @@
-34 countries tx'ed from
+33 countries tx'ed from
 Afghanistan
 Algeria
+Argentina
 Bangladesh
 Brazil
 Canada
@@ -15,14 +16,12 @@ Greenland
 Iran_(Islamic_Republic_of)
 Israel
 Italy
-Japan
 Kazakhstan
-Korea_(Democratic_People's_Republic_of)
 Madagascar
 Mali
 Mauritania
 Mexico
-Netherlands
+Mongolia
 None
 Pakistan
 Russian_Federation
