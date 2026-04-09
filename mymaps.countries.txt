@@ -1,4 +1,4 @@
-26 countries tx'ed from
+25 countries tx'ed from
 Albania
 Algeria
 Azerbaijan
@@ -19,7 +19,6 @@ Mauritania
 Mexico
 Mongolia
 None
-Romania
 Russian_Federation
 Saudi_Arabia
 Tunisia
