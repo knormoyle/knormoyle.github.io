@@ -1,4 +1,4 @@
-Last updated: 2026-04-16_00:09 (utc)
+Last updated: 2026-04-16_15:27 (utc)
 Thanks to all the picoballoonists and wspr rx spotters worldwide
 Thanks to wsprlive and wsprnet maintainers: https://wspr.live https://wsprnet.org
 Thanks to Andy for wsprtv multi-protocol flight viewer https://wsprtv.com
@@ -28,30 +28,29 @@ sa6bss_u4b 10
 sp2roc 1
 sp6mpl 1
 traquito_u4b 38
-wb8elk 4
-zachtek 21
+wb8elk 5
+zachtek 20
 
-23 countries tx'ed from
-Afghanistan
-Algeria
-Argentina
+22 countries tx'ed from
 Brazil
-Bulgaria
 Canada
 China
 Egypt
-Greece
 Greenland
-Italy
+Iran_(Islamic_Republic_of)
+Japan
+Jordan
 Libya
-Mali
-Mauritania
-Mexico
+Malta
 Netherlands
+New_Zealand
 None
-Pakistan
 Russian_Federation
 Saudi_Arabia
-Sweden
+Spain
+Syrian_Arab_Republic
+Turkey
+Turkmenistan
+Ukraine
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
