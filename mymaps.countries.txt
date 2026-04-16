@@ -1,20 +1,24 @@
-19 countries tx'ed from
+23 countries tx'ed from
 Afghanistan
 Algeria
 Argentina
+Brazil
 Bulgaria
 Canada
 China
 Egypt
+Greece
 Greenland
 Italy
-Korea_(Democratic_People's_Republic_of)
 Libya
 Mali
+Mauritania
+Mexico
 Netherlands
 None
 Pakistan
 Russian_Federation
 Saudi_Arabia
 Sweden
+United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
