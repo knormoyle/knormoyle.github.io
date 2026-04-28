@@ -1,4 +1,4 @@
-10m 15
+10m 17
 12m 3
 15m 17
 17m 23
@@ -16,6 +16,6 @@ qrplabs_u4b 9
 sa6bss_u4b 10
 sp2roc 1
 sp6mpl 1
-traquito_u4b 48
-wb8elk 6
-zachtek 24
+traquito_u4b 50
+wb8elk 7
+zachtek 23
