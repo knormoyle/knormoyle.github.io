@@ -1,4 +1,4 @@
-Last updated: 2026-04-28_15:01 (utc)
+Last updated: 2026-04-29_15:02 (utc)
 Thanks to all the picoballoonists and wspr rx spotters worldwide
 Thanks to wsprlive and wsprnet maintainers: https://wspr.live https://wsprnet.org
 Thanks to Andy for wsprtv multi-protocol flight viewer https://wsprtv.com
@@ -10,12 +10,12 @@ maintainer: Kevin AD6Z (Feedback: can find my email at qrz.com)
 You can hard refresh your browser in case the following text data is stale in browser cache.
 google chrome or microsoft edge: <ctrl> + F5
 
-10m 17
+10m 16
 12m 3
-15m 17
-17m 23
-20m 52
-30m 3
+15m 16
+17m 21
+20m 50
+30m 2
 
 unique trackers: (some wrong identification)
 ad6z_u4b 1
@@ -24,47 +24,45 @@ dj2ds 2
 kb1vgo 1
 kc3lbr_u4b 8
 m7gaq_u4b 1
-qrplabs_u4b 9
+qrplabs_u4b 7
 sa6bss_u4b 10
 sp2roc 1
 sp6mpl 1
-traquito_u4b 50
-wb8elk 7
-zachtek 23
+traquito_u4b 48
+wb8elk 5
+zachtek 22
 
-35 countries tx'ed from
+33 countries tx'ed from
+Afghanistan
 Algeria
+Argentina
 Australia
-Belize
+Belgium
 Canada
 China
 Colombia
-Cyprus
+Croatia
 Egypt
-Finland
-France
-Germany
 Greece
-Greenland
-Guatemala
-Indonesia
-Iran_(Islamic_Republic_of)
+Honduras
+Iceland
+Japan
 Kazakhstan
-Libya
 Lithuania
-Mauritania
-Mongolia
-Netherlands
+Nepal
+Niger
 None
+North_Macedonia
+Palestine__State_of
+Philippines
 Poland
-Portugal
 Russian_Federation
 Saudi_Arabia
 Slovenia
-Tajikistan
+Spain
 Turkey
+Turkmenistan
 Ukraine
+United_States_Minor_Outlying_Islands
 United_States_of_America
 Uzbekistan
-Viet_Nam
-Western_Sahara
