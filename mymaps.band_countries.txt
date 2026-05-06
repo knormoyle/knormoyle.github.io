@@ -1,4 +1,4 @@
-Last updated: 2026-05-02_03:07 (utc)
+Last updated: 2026-05-06_03:48 (utc)
 Thanks to all the picoballoonists and wspr rx spotters worldwide
 Thanks to wsprlive and wsprnet maintainers: https://wspr.live https://wsprnet.org
 Thanks to Andy for wsprtv multi-protocol flight viewer https://wsprtv.com
@@ -10,56 +10,38 @@ maintainer: Kevin AD6Z (Feedback: can find my email at qrz.com)
 You can hard refresh your browser in case the following text data is stale in browser cache.
 google chrome or microsoft edge: <ctrl> + F5
 
-10m 16
+10m 5
 12m 1
-15m 16
-17m 21
-20m 54
-30m 2
+15m 9
+17m 12
+20m 27
 
 unique trackers: (some wrong identification)
-ad6z_u4b 1
-ag6ns 1
-dj2ds 1
-kb1vgo 1
-kc3lbr_u4b 8
-m7gaq_u4b 1
-qrplabs_u4b 6
-sa6bss_u4b 10
-sp2roc 1
-sp6mpl 1
-traquito_u4b 48
-wb8elk 7
-zachtek 24
+protocol=ab5ss 1
+protocol=ag6ns 2
+protocol=dj2ds 1
+protocol=kb1vgo 1
+protocol=kc3lbr_u4b 2
+protocol=m7gaq_u4b 1
+protocol=qrplabs_u4b 4
+protocol=sa6bss_u4b 6
+protocol=sp2roc 1
+protocol=traquito_u4b 14
+protocol=wb8elk 16
+protocol=zachtek 5
 
-30 countries tx'ed from
-Afghanistan
-Algeria
-Aruba
-Azerbaijan
-Canada
-China
-Colombia
-Croatia
-Cyprus
-France
-Greece
-India
-Iran_(Islamic_Republic_of)
-Kazakhstan
-Lao_People's_Democratic_Republic
-Libya
-Lithuania
-None
-North_Macedonia
-Romania
-Russian_Federation
-Saudi_Arabia
-South_Africa
-Sweden
-Trinidad_and_Tobago
-Turkey
-Ukraine
-United_Kingdom_of_Great_Britain_and_Northern_Ireland
-United_States_of_America
-Uzbekistan
+14 countries tx'ed from
+country=Brazil
+country=Burkina_Faso
+country=Canada
+country=China
+country=Kazakhstan
+country=Libya
+country=Niger
+country=None
+country=Peru
+country=Russian_Federation
+country=Sudan
+country=Sweden
+country=Turkey
+country=United_States_of_America
