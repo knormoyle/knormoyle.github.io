@@ -1,19 +1,19 @@
-10m 5
-12m 1
-15m 9
-17m 12
-20m 27
+10m 11
+12m 2
+15m 14
+17m 18
+20m 43
 
 unique trackers: (some wrong identification)
-protocol=ab5ss 1
 protocol=ag6ns 2
 protocol=dj2ds 1
 protocol=kb1vgo 1
-protocol=kc3lbr_u4b 2
+protocol=kc3lbr_u4b 5
 protocol=m7gaq_u4b 1
-protocol=qrplabs_u4b 4
-protocol=sa6bss_u4b 6
+protocol=qrplabs_u4b 7
+protocol=sa6bss_u4b 12
 protocol=sp2roc 1
-protocol=traquito_u4b 14
-protocol=wb8elk 16
-protocol=zachtek 5
+protocol=sp6mpl 1
+protocol=traquito_u4b 34
+protocol=wb8elk 19
+protocol=zachtek 4
