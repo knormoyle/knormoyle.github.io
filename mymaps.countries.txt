@@ -1,15 +1,21 @@
-14 countries tx'ed from
-country=Brazil
-country=Burkina_Faso
+20 countries tx'ed from
+country=Algeria
+country=Argentina
 country=Canada
 country=China
+country=Iran_(Islamic_Republic_of)
+country=Iraq
+country=Japan
 country=Kazakhstan
+country=Kuwait
 country=Libya
+country=Mongolia
+country=Nepal
 country=Niger
 country=None
 country=Peru
 country=Russian_Federation
 country=Sudan
 country=Sweden
-country=Turkey
+country=Tunisia
 country=United_States_of_America
