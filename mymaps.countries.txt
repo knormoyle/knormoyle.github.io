@@ -1,21 +1,20 @@
-20 countries tx'ed from
-Cabo_Verde
+19 countries tx'ed from
+Algeria
+Aruba
+Belarus
 Canada
 China
+Colombia
+Egypt
+Greece
 Greenland
 India
-Indonesia
-Kazakhstan
+Japan
+Mauritania
 Mexico
-Mongolia
-Morocco
-Namibia
 None
-Poland
+North_Macedonia
 Russian_Federation
-Saudi_Arabia
+Spain
 Sudan
-Tunisia
-United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
-Uzbekistan
