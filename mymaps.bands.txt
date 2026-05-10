@@ -5,7 +5,7 @@
 20m 47
 30m 2
 
-unique trackers: (some wrong identification)
+unique trackers (some identification may be wrong):
 ag6ns 1
 kb1vgo 1
 kc3lbr_u4b 5
