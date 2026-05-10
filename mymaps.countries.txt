@@ -1,6 +1,5 @@
-19 countries tx'ed from
+22 countries tx'ed from
 Algeria
-Aruba
 Belarus
 Canada
 China
@@ -9,12 +8,16 @@ Egypt
 Greece
 Greenland
 India
+Indonesia
 Japan
 Mauritania
 Mexico
+Myanmar
 None
 North_Macedonia
+Palestine__State_of
 Russian_Federation
+Saudi_Arabia
 Spain
 Sudan
 United_States_of_America
