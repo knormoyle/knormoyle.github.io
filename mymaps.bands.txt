@@ -1,7 +1,7 @@
-10m 15
+10m 16
 12m 1
 15m 17
-17m 17
+17m 18
 20m 52
 30m 1
 
@@ -17,5 +17,6 @@ sa6bss_u4b 10
 sp2roc 1
 sp6mpl 1
 traquito_u4b 45
+w5kub 1
 wb8elk 11
-zachtek 17
+zachtek 18
