@@ -1,17 +1,17 @@
-24 countries tx'ed from
-Afghanistan
+23 countries tx'ed from
 Algeria
-Australia
-Brazil
 Burkina_Faso
 Canada
 China
-Iran_(Islamic_Republic_of)
+French_Polynesia
+Germany
+Hungary
+Iceland
+India
 Italy
 Kazakhstan
 Liberia
 Libya
-Mali
 Mexico
 Niger
 Nigeria
@@ -19,7 +19,6 @@ None
 Russian_Federation
 Saudi_Arabia
 Sweden
-Taiwan__Province_of_China
 Turkey
 United_States_of_America
 Åland_Islands
