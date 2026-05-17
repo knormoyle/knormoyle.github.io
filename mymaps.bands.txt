@@ -1,6 +1,5 @@
 10m 11
-12m 1
-15m 14
+15m 15
 17m 18
 20m 52
 
@@ -11,11 +10,12 @@ dj2ds 1
 kb1vgo 1
 kc3lbr_u4b 5
 m7gaq_u4b 1
-qrplabs_u4b 9
-sa6bss_u4b 12
+qrplabs_u4b 8
+r2picotracker 1
+sa6bss_u4b 10
 sp2roc 1
 sp6mpl 1
 traquito_u4b 37
 w5kub 1
-wb8elk 11
-zachtek 14
+wb8elk 9
+zachtek 18
