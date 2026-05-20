@@ -1,8 +1,11 @@
-19 countries tx'ed from
+22 countries tx'ed from
+Algeria
 Australia
 Bulgaria
 Canada
+Chad
 China
+Egypt
 Greenland
 Iraq
 Japan
@@ -10,11 +13,11 @@ Kyrgyzstan
 Madagascar
 Mongolia
 None
+Palestine__State_of
 Philippines
 Russian_Federation
 Saudi_Arabia
-Sudan
 Sweden
-Tanzania__United_Republic_of
 United_Arab_Emirates
 United_States_of_America
+Uzbekistan
