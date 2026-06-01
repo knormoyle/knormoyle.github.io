@@ -1,4 +1,4 @@
-21 countries tx'ed from
+20 countries tx'ed from
 Brazil
 Canada
 China
@@ -10,7 +10,6 @@ Italy
 Kazakhstan
 Korea__Republic_of
 Mongolia
-Netherlands
 Nicaragua
 None
 Norway
