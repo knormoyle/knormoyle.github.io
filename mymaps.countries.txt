@@ -1,4 +1,4 @@
-24 countries tx'ed from
+23 countries tx'ed from
 Algeria
 Brazil
 Canada
@@ -19,7 +19,6 @@ Portugal
 Russian_Federation
 San_Marino
 Spain
-Switzerland
 Tunisia
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
