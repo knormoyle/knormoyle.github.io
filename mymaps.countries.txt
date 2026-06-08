@@ -1,4 +1,4 @@
-26 countries tx'ed from
+25 countries tx'ed from
 Algeria
 Canada
 China
@@ -15,7 +15,6 @@ Netherlands
 Nigeria
 None
 Palestine__State_of
-Portugal
 Russian_Federation
 San_Marino
 South_Africa
