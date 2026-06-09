@@ -1,4 +1,4 @@
-23 countries tx'ed from
+22 countries tx'ed from
 Afghanistan
 Algeria
 Canada
@@ -14,7 +14,6 @@ Kazakhstan
 Libya
 Nigeria
 None
-Palestine__State_of
 Russian_Federation
 San_Marino
 Spain
