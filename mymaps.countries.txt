@@ -1,25 +1,27 @@
-24 countries tx'ed from
+26 countries tx'ed from
 Algeria
-Australia
 Canada
 China
 Croatia
 Cuba
-Egypt
+Greece
+Greenland
+Hungary
 Indonesia
+Iran_(Islamic_Republic_of)
 Italy
-Japan
 Kazakhstan
 Kyrgyzstan
-Libya
+Mauritania
+Mexico
 Mongolia
+Morocco
 Nigeria
 None
 Norway
 Russian_Federation
 San_Marino
 Spain
-Turkmenistan
+Switzerland
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
-Uzbekistan
