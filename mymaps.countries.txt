@@ -1,25 +1,23 @@
-24 countries tx'ed from
-Bahamas
+22 countries tx'ed from
+Afghanistan
+Algeria
+Bermuda
 Canada
 China
+Cuba
 Cyprus
 Finland
+France
 Greenland
 Indonesia
+Iran_(Islamic_Republic_of)
 Italy
-Japan
 Kazakhstan
 Kyrgyzstan
-Libya
 Mexico
-Morocco
 None
 Norway
 Russian_Federation
 Spain
-Sweden
-Syrian_Arab_Republic
-Turkmenistan
-Ukraine
 United_States_of_America
 Uzbekistan
