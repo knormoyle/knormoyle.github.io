@@ -1,12 +1,14 @@
-22 countries tx'ed from
+26 countries tx'ed from
 Bahamas
 Canada
 China
 Croatia
 Cyprus
 Finland
+Greenland
 Indonesia
 Italy
+Japan
 Kazakhstan
 Kyrgyzstan
 Libya
@@ -15,9 +17,11 @@ Morocco
 Nigeria
 None
 Norway
-Palestine__State_of
 Russian_Federation
 Spain
-Turkey
+Sweden
+Syrian_Arab_Republic
+Turkmenistan
 Ukraine
 United_States_of_America
+Uzbekistan
