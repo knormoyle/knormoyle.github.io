@@ -1,4 +1,4 @@
-22 countries tx'ed from
+18 countries tx'ed from
 Afghanistan
 Algeria
 Bermuda
@@ -9,15 +9,11 @@ Cyprus
 Finland
 France
 Greenland
-Indonesia
 Iran_(Islamic_Republic_of)
-Italy
 Kazakhstan
-Kyrgyzstan
 Mexico
 None
 Norway
 Russian_Federation
-Spain
 United_States_of_America
 Uzbekistan
