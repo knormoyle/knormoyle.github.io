@@ -1,16 +1,18 @@
-15 countries tx'ed from
+17 countries tx'ed from
 Algeria
-Bulgaria
+Austria
 Canada
 China
 Croatia
-Cyprus
 Finland
+France
 Greenland
-Mongolia
+Japan
+Kazakhstan
+Libya
+Moldova__Republic_of
 None
-Poland
 Russian_Federation
-Turkey
-United_Kingdom_of_Great_Britain_and_Northern_Ireland
+Turkmenistan
 United_States_of_America
+Uzbekistan
