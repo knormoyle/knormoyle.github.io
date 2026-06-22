@@ -1,4 +1,4 @@
-Last updated: 2026-06-21_11:04 (utc)
+Last updated: 2026-06-22_10:04 (utc)
 Thanks to all the picoballoonists and wspr rx spotters worldwide
 Thanks to wsprlive and wsprnet maintainers: https://wspr.live https://wsprnet.org
 Thanks to Andy for wsprtv multi-protocol flight viewer https://wsprtv.com
@@ -10,11 +10,11 @@ maintainer: Kevin AD6Z (Feedback: can find my email at qrz.com)
 You can hard refresh your browser in case the following text data is stale in browser cache.
 google chrome or microsoft edge: <ctrl> + F5
 
-10m 15
+10m 14
 12m 3
-15m 16
-17m 18
-20m 40
+15m 14
+17m 17
+20m 39
 30m 1
 
 unique trackers (some identification may be wrong):
@@ -24,12 +24,12 @@ dj2ds 1
 kc3lbr_u4b 4
 m7gaq_u4b 1
 qrplabs_u4b 4
-sa6bss_u4b 12
+sa6bss_u4b 11
 sp2roc 1
 sp6mpl 1
-traquito_u4b 36
-wb8elk 12
-zachtek 18
+traquito_u4b 35
+wb8elk 11
+zachtek 16
 
 16 countries tx'ed from
 Algeria
