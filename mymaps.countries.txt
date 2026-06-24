@@ -1,6 +1,5 @@
-20 countries tx'ed from
+19 countries tx'ed from
 Algeria
-Australia
 Belarus
 Canada
 China
