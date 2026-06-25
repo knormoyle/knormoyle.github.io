@@ -1,20 +1,27 @@
-19 countries tx'ed from
-Algeria
+26 countries tx'ed from
 Belarus
+Bulgaria
 Canada
 China
 Colombia
 Croatia
-Faroe_Islands
-Finland
+Egypt
+France
+Greenland
+Guam
 Kazakhstan
+Morocco
 New_Zealand
 None
+Peru
+Philippines
 Poland
+Puerto_Rico
 Romania
 Russian_Federation
-Sudan
-Tunisia
-Turks_and_Caicos_Islands
-United_Kingdom_of_Great_Britain_and_Northern_Ireland
+San_Marino
+Slovakia
+South_Africa
+Spain
+Turkmenistan
 United_States_of_America
