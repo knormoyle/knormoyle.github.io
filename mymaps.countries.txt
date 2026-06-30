@@ -1,4 +1,4 @@
-27 countries tx'ed from
+26 countries tx'ed from
 Algeria
 Brazil
 Canada
@@ -19,7 +19,6 @@ Philippines
 Poland
 Romania
 Russian_Federation
-Slovakia
 Turkmenistan
 Ukraine
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
