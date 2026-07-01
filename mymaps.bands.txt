@@ -2,7 +2,7 @@
 12m 3
 15m 21
 17m 17
-20m 58
+20m 57
 30m 3
 
 unique trackers (some identification may be wrong):
@@ -17,4 +17,4 @@ sp2roc 1
 sp6mpl 1
 traquito_u4b 54
 wb8elk 10
-zachtek 23
+zachtek 22
