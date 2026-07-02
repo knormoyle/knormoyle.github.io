@@ -1,26 +1,21 @@
-25 countries tx'ed from
-Algeria
+20 countries tx'ed from
 Brazil
 Canada
-China
+Congo__Democratic_Republic_of_the
 Cuba
-France
-Greenland
-Italy
+Hungary
+Indonesia
+Iran_(Islamic_Republic_of)
 Japan
-Kazakhstan
-Libya
+Liechtenstein
 Mexico
-Mozambique
+Mongolia
 None
 Pakistan
 Peru
-Philippines
-Poland
 Romania
 Russian_Federation
-Sweden
-Turkmenistan
+Turkey
 Ukraine
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
