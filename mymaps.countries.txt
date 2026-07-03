@@ -1,20 +1,22 @@
-19 countries tx'ed from
-Brazil
+21 countries tx'ed from
 Canada
-Congo__Democratic_Republic_of_the
+China
 Cuba
-Hungary
-Indonesia
+Czechia
 Iran_(Islamic_Republic_of)
-Japan
-Liechtenstein
+Italy
+Kazakhstan
+Kyrgyzstan
 Mexico
 Mongolia
+Morocco
 None
 Peru
 Romania
 Russian_Federation
-Turkey
+Spain
+Turkmenistan
 Ukraine
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
+Uzbekistan
