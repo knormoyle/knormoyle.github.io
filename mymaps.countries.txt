@@ -1,4 +1,4 @@
-20 countries tx'ed from
+19 countries tx'ed from
 Brazil
 Canada
 Congo__Democratic_Republic_of_the
@@ -11,7 +11,6 @@ Liechtenstein
 Mexico
 Mongolia
 None
-Pakistan
 Peru
 Romania
 Russian_Federation
