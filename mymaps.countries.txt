@@ -1,4 +1,4 @@
-23 countries tx'ed from
+22 countries tx'ed from
 Australia
 Belarus
 Canada
@@ -13,7 +13,6 @@ Kyrgyzstan
 Mexico
 Mongolia
 None
-Peru
 Romania
 Russian_Federation
 San_Marino
