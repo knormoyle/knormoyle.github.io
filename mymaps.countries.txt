@@ -1,23 +1,22 @@
-22 countries tx'ed from
-Australia
-Belarus
+21 countries tx'ed from
+Burundi
 Canada
-Chile
 China
-France
+Germany
+Greece
 Greenland
+Indonesia
 Iran_(Islamic_Republic_of)
-Japan
 Kazakhstan
-Kyrgyzstan
+Korea__Republic_of
 Mexico
 Mongolia
 None
+Peru
 Romania
 Russian_Federation
-San_Marino
-Seychelles
-Tunisia
+Turkey
+Turkmenistan
 Ukraine
-United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
+Uzbekistan
