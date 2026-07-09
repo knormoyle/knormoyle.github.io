@@ -1,21 +1,17 @@
-20 countries tx'ed from
-Australia
+16 countries tx'ed from
+Belarus
+Bolivia_(Plurinational_State_of)
 Canada
 China
-France
 Germany
 Greenland
-Indonesia
-Kazakhstan
 Mexico
 Mongolia
-Mozambique
+Morocco
 None
-Norway
 Romania
 Russian_Federation
-Saint_Pierre_and_Miquelon
+Tanzania__United_Republic_of
 Turkey
 Ukraine
 United_States_of_America
-Uzbekistan
