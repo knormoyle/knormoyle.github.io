@@ -1,11 +1,10 @@
-16 countries tx'ed from
+15 countries tx'ed from
 Belarus
 Bolivia_(Plurinational_State_of)
 Canada
 China
 Germany
 Greenland
-Mexico
 Mongolia
 Morocco
 None
