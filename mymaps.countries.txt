@@ -1,4 +1,4 @@
-19 countries tx'ed from
+18 countries tx'ed from
 Australia
 Canada
 China
@@ -14,7 +14,6 @@ Norway
 Peru
 Russian_Federation
 Sudan
-Taiwan__Province_of_China
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
 Venezuela_(Bolivarian_Republic_of)
