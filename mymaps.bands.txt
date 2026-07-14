@@ -5,7 +5,6 @@
 20m 38
 
 unique trackers (some identification may be wrong):
-ad6z_u4b 1
 ag6ns 1
 dj2ds 1
 kc3lbr_u4b 2
@@ -14,6 +13,6 @@ qrplabs_u4b 6
 sa6bss_u4b 16
 sp2roc 1
 sp6mpl 1
-traquito_u4b 41
+traquito_u4b 42
 wb8elk 9
 zachtek 6
