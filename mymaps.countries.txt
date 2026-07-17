@@ -1,17 +1,21 @@
-16 countries tx'ed from
+20 countries tx'ed from
+Angola
 Australia
+Brazil
 Canada
 China
+France
+Germany
 Greenland
-Guyana
+Honduras
+Kazakhstan
 Libya
 Mexico
-Mongolia
-Netherlands
 None
+Peru
 Russian_Federation
 Spain
 Taiwan__Province_of_China
+Turkey
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
-Venezuela_(Bolivarian_Republic_of)
