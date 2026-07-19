@@ -1,21 +1,18 @@
-20 countries tx'ed from
-Angola
-Australia
+17 countries tx'ed from
 Brazil
+Bulgaria
 Canada
 China
-France
-Germany
 Greenland
-Honduras
-Kazakhstan
-Libya
+Guyana
 Mexico
+Mongolia
+Netherlands
 None
-Peru
+Poland
 Russian_Federation
 Spain
-Taiwan__Province_of_China
+Sweden
+Thailand
 Turkey
-United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
