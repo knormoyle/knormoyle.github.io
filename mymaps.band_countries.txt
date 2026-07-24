@@ -1,4 +1,4 @@
-Last updated: 2026-07-24_05:48 (utc)
+Last updated: 2026-07-24_06:07 (utc)
 Thanks to all the picoballoonists and wspr rx spotters worldwide
 Thanks to wsprlive and wsprnet maintainers: https://wspr.live https://wsprnet.org
 Thanks to Andy for wsprtv multi-protocol flight viewer https://wsprtv.com
@@ -14,7 +14,7 @@ google chrome or microsoft edge: <ctrl> + F5
 12m 1
 15m 17
 17m 18
-20m 36
+20m 35
 
 unique trackers (some identification may be wrong):
 ab5ss 1
@@ -28,7 +28,7 @@ sa6bss_u4b 13
 sp6mpl 1
 traquito_u4b 39
 wb8elk 11
-zachtek 8
+zachtek 7
 
 21 countries tx'ed from
 Belarus
