@@ -1,25 +1,22 @@
-24 countries tx'ed from
-Australia
+21 countries tx'ed from
+Belarus
 Canada
+Chad
 Chile
 China
 Czechia
-Ghana
-Hungary
+Côte_d'Ivoire
+Greenland
 Iran_(Islamic_Republic_of)
+Italy
 Kazakhstan
-Luxembourg
 Mexico
-Niue
 None
 Peru
-Poland
-Romania
 Russian_Federation
-Spain
-Sudan
 Sweden
 Turkey
 Ukraine
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
+Viet_Nam
