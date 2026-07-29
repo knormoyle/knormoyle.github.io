@@ -1,17 +1,19 @@
-16 countries tx'ed from
+18 countries tx'ed from
 Australia
-Belarus
 Brazil
 Canada
 China
+Croatia
 Germany
-Greenland
-Japan
+Iceland
+Ireland
 Libya
+Madagascar
 None
-Norway
+Poland
 Russian_Federation
+Slovenia
 Sweden
-Ukraine
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
+Viet_Nam
