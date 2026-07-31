@@ -1,19 +1,23 @@
-18 countries tx'ed from
+22 countries tx'ed from
+Angola
 Australia
-Brazil
+Austria
+Bahamas
 Cambodia
 Canada
 China
-Croatia
 Denmark
+Finland
 Germany
-Greenland
 Guernsey
 Libya
 None
 Peru
 Poland
+Portugal
+Romania
 Russian_Federation
 Slovenia
 Sweden
+United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
