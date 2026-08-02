@@ -1,23 +1,21 @@
-22 countries tx'ed from
-Angola
+20 countries tx'ed from
 Australia
-Bermuda
-Bolivia_(Plurinational_State_of)
+Brazil
 Cambodia
 Canada
-Cuba
+Croatia
 Germany
 Guernsey
-Mongolia
+Haiti
+Kazakhstan
+Mexico
 None
-Paraguay
 Peru
 Poland
 Portugal
 Romania
 Russian_Federation
 Slovenia
-Spain
 Sweden
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
