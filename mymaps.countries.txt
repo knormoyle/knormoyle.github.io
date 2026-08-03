@@ -1,9 +1,9 @@
-17 countries tx'ed from
+18 countries tx'ed from
 Australia
 Brazil
+Bulgaria
 Cambodia
 Canada
-Croatia
 Germany
 Haiti
 Kazakhstan
@@ -14,5 +14,6 @@ Poland
 Portugal
 Romania
 Russian_Federation
+Sweden
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
