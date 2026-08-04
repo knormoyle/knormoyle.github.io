@@ -1,4 +1,4 @@
-18 countries tx'ed from
+17 countries tx'ed from
 Australia
 Brazil
 Bulgaria
@@ -8,7 +8,6 @@ Germany
 Haiti
 Kazakhstan
 Mexico
-Netherlands
 None
 Peru
 Poland
