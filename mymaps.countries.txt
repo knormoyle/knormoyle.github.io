@@ -1,15 +1,16 @@
-14 countries tx'ed from
+15 countries tx'ed from
 Brazil
-Bulgaria
 Cameroon
 Canada
+Eswatini
+France
 Haiti
-Ireland
 Kazakhstan
 Mexico
-Netherlands
 None
-Peru
 Russian_Federation
+Saint_Helena__Ascension_and_Tristan_da_Cunha
+Somalia
+Sweden
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
