@@ -1,16 +1,18 @@
-17 countries tx'ed from
+19 countries tx'ed from
 Angola
 Belarus
 Cameroon
 Canada
+China
 Finland
+Germany
 Greenland
 Haiti
 Kazakhstan
 Latvia
 Mexico
+Netherlands
 None
-Norway
 Russian_Federation
 South_Sudan
 Sweden
