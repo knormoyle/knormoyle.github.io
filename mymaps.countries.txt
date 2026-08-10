@@ -1,18 +1,22 @@
-17 countries tx'ed from
-Cameroon
+21 countries tx'ed from
+Andorra
+Angola
+Australia
+Bosnia_and_Herzegovina
 Canada
-Faroe_Islands
+China
 Finland
 Germany
-Greenland
 Kazakhstan
+Mauritania
 Mexico
+Mongolia
 Netherlands
-Niger
 None
+Norway
+Peru
+Romania
 Russian_Federation
-Sweden
-Turkmenistan
+Spain
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
-Uzbekistan
