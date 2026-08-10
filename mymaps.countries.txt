@@ -1,22 +1,19 @@
-21 countries tx'ed from
+18 countries tx'ed from
 Andorra
-Angola
 Australia
 Bosnia_and_Herzegovina
 Canada
-China
 Finland
-Germany
+Hungary
 Kazakhstan
 Mauritania
 Mexico
 Mongolia
+Mozambique
 Netherlands
 None
 Norway
 Peru
-Romania
 Russian_Federation
-Spain
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
