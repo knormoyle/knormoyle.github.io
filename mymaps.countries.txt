@@ -1,17 +1,16 @@
-20 countries tx'ed from
+19 countries tx'ed from
 Australia
 Bahamas
 Belarus
 Bulgaria
 Canada
+China
 Croatia
 France
 Greenland
 Hungary
 Ireland
 Kazakhstan
-Kyrgyzstan
-Mongolia
 None
 Norway
 Russian_Federation
