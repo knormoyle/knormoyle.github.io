@@ -1,16 +1,18 @@
-15 countries tx'ed from
+17 countries tx'ed from
 Australia
-Bulgaria
+Belarus
+Brazil
 Canada
 China
-Hungary
+France
+Germany
+Greenland
 Kazakhstan
-Mexico
-Mongolia
 Morocco
 None
+North_Macedonia
 Russian_Federation
 South_Africa
 Svalbard_and_Jan_Mayen
-Turkey
 United_States_of_America
+Yemen
