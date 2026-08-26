@@ -1,20 +1,16 @@
-19 countries tx'ed from
-Australia
-Bahamas
-Belarus
+15 countries tx'ed from
 Brazil
 Canada
 China
 France
-Germany
-Kazakhstan
-Morocco
+Greenland
+Mali
+Mexico
+Mongolia
 Netherlands
 None
-North_Macedonia
 Russian_Federation
-South_Africa
-Svalbard_and_Jan_Mayen
-United_Kingdom_of_Great_Britain_and_Northern_Ireland
+Slovakia
+Spain
 United_States_of_America
-Zimbabwe
+Zambia
