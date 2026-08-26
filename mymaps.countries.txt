@@ -1,14 +1,16 @@
-13 countries tx'ed from
-Brazil
-Canada
-China
-France
+15 countries tx'ed from
+Algeria
+Angola
+Belgium
 Greenland
+Italy
 Mexico
 Mongolia
+Morocco
+Netherlands
 None
+Romania
 Russian_Federation
-Slovakia
 Spain
 United_States_of_America
 Zambia
