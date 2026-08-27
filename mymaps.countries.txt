@@ -1,15 +1,17 @@
-14 countries tx'ed from
-Angola
-Belgium
+16 countries tx'ed from
+Botswana
 Canada
-France
+Chile
+China
+Egypt
 Greenland
-Italy
+India
 Mexico
-Morocco
 None
-Romania
+Norway
+Poland
 Russian_Federation
+Serbia
 Spain
+Tunisia
 United_States_of_America
-Zambia
