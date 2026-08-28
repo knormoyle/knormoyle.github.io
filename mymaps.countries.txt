@@ -1,15 +1,20 @@
-14 countries tx'ed from
+19 countries tx'ed from
 Argentina
-Botswana
+Brazil
 Canada
 China
 Egypt
 Greenland
 India
+Iran_(Islamic_Republic_of)
+Ireland
+Kazakhstan
 Mexico
+Mongolia
 None
 Russian_Federation
 Serbia
-Spain
 Tunisia
+Ukraine
 United_States_of_America
+Western_Sahara
