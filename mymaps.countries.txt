@@ -1,24 +1,22 @@
-23 countries tx'ed from
-Algeria
-Brazil
+21 countries tx'ed from
+Bolivia_(Plurinational_State_of)
 Canada
 China
+Congo
 Cuba
-Germany
+Finland
 Greenland
 Hungary
 India
 Iran_(Islamic_Republic_of)
-Jordan
+Japan
 Kazakhstan
-Mexico
 Mongolia
-Morocco
 None
+Norway
+Peru
+Poland
 Russian_Federation
-Serbia
 Tunisia
-Turkey
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
-Uzbekistan
