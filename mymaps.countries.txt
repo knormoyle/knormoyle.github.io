@@ -1,20 +1,18 @@
-19 countries tx'ed from
-Albania
+17 countries tx'ed from
 Antarctica
+Argentina
 Australia
 Canada
 China
-Cuba
+Ethiopia
+Germany
 Greenland
-Italy
+Indonesia
 Kazakhstan
-Madagascar
+Mongolia
 None
-Norway
-Peru
-Romania
 Russian_Federation
-Tanzania__United_Republic_of
-Turkmenistan
+Sweden
+Ukraine
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
