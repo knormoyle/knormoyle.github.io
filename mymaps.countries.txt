@@ -1,18 +1,17 @@
-17 countries tx'ed from
-Belarus
-Brazil
+16 countries tx'ed from
+Algeria
+Botswana
 Canada
 China
 Greenland
 Indonesia
 Kazakhstan
 Kenya
-Kyrgyzstan
-Morocco
-Namibia
+Mexico
+Mongolia
 None
+Poland
 Russian_Federation
-Spain
 Turkey
-Ukraine
+Turkmenistan
 United_States_of_America
