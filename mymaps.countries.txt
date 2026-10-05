@@ -1,25 +1,17 @@
-24 countries tx'ed from
-Afghanistan
-Australia
-Botswana
-Brazil
+16 countries tx'ed from
+Antarctica
 Canada
+Chad
 China
-Cuba
-Ecuador
-Egypt
-Faroe_Islands
 France
+Germany
 Greenland
-Guatemala
-Ireland
+Japan
 Libya
-Mongolia
+Netherlands
 None
-Peru
+Poland
 Russian_Federation
-Saudi_Arabia
-Turkey
+Tunisia
 Turkmenistan
-United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
