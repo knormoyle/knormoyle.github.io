@@ -1,13 +1,20 @@
-12 countries tx'ed from
-Brazil
+19 countries tx'ed from
+Algeria
+Antigua_and_Barbuda
+Azerbaijan
+Bahamas
 Canada
 China
-Cuba
-Faroe_Islands
-Iran_(Islamic_Republic_of)
+India
+Kazakhstan
+Kyrgyzstan
+Mali
 Mexico
-Morocco
+Mongolia
+Netherlands
 None
-Russian_Federation
-Saudi_Arabia
+South_Africa
+Sweden
+Turkey
 United_States_of_America
+Western_Sahara
