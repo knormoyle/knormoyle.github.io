@@ -1,28 +1,15 @@
-27 countries tx'ed from
-Bulgaria
+14 countries tx'ed from
+Antarctica
+Australia
 Canada
 China
-Estonia
-Finland
-France
+Côte_d'Ivoire
+Egypt
 Germany
-Greenland
-Iran_(Islamic_Republic_of)
-Iraq
-Mexico
-Mongolia
+Korea_(Democratic_People's_Republic_of)
 None
-Pakistan
-Peru
-Philippines
-Romania
 Russian_Federation
-South_Africa
-Sudan
 Sweden
-Switzerland
-Syrian_Arab_Republic
-Thailand
-Turkey
+United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
-Zambia
+Western_Sahara
