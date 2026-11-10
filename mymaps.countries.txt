@@ -1,12 +1,13 @@
-14 countries tx'ed from
-Antarctica
+15 countries tx'ed from
 Australia
+Burkina_Faso
 Canada
 China
-Côte_d'Ivoire
 Egypt
 Germany
 Korea_(Democratic_People's_Republic_of)
+Mauritania
+Netherlands
 None
 Russian_Federation
 Sweden
