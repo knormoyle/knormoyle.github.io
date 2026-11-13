@@ -1,16 +1,21 @@
-15 countries tx'ed from
+20 countries tx'ed from
 Australia
-Burkina_Faso
+Bahrain
 Canada
 China
 Egypt
 Germany
-Korea_(Democratic_People's_Republic_of)
-Mauritania
+Iran_(Islamic_Republic_of)
+Ireland
+Kazakhstan
+Libya
+Mali
+Mongolia
 Netherlands
+Niger
 None
 Russian_Federation
+Saudi_Arabia
 Sweden
 United_Kingdom_of_Great_Britain_and_Northern_Ireland
 United_States_of_America
-Western_Sahara
