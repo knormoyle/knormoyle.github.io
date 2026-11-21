@@ -1,21 +1,17 @@
-20 countries tx'ed from
-Australia
-Bahrain
+16 countries tx'ed from
+Brazil
 Canada
 China
-Egypt
+Denmark
+France
 Germany
-Iran_(Islamic_Republic_of)
-Ireland
-Kazakhstan
+India
+Japan
 Libya
-Mali
 Mongolia
-Netherlands
-Niger
 None
 Russian_Federation
-Saudi_Arabia
-Sweden
-United_Kingdom_of_Great_Britain_and_Northern_Ireland
+United_Arab_Emirates
 United_States_of_America
+Uruguay
+Uzbekistan
