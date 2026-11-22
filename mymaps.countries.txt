@@ -1,17 +1,18 @@
-16 countries tx'ed from
-Argentina
+17 countries tx'ed from
+Bahamas
 Brazil
 Canada
 China
 Denmark
 France
+Germany
 India
+Italy
 Japan
-Mongolia
+Kazakhstan
+Korea__Republic_of
+Mali
 None
-Russian_Federation
-Sudan
-United_Arab_Emirates
+Saint_Martin_(French_part)
+Spain
 United_States_of_America
-Uruguay
-Uzbekistan
