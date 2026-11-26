@@ -1,18 +1,14 @@
-17 countries tx'ed from
-Bahamas
-Brazil
+13 countries tx'ed from
 Canada
 China
-Denmark
-France
-Germany
-India
-Italy
-Japan
-Kazakhstan
-Korea__Republic_of
-Mali
+Iran_(Islamic_Republic_of)
+Libya
+Niger
 None
-Saint_Martin_(French_part)
+Russian_Federation
+Saudi_Arabia
 Spain
+Turkey
+United_Arab_Emirates
 United_States_of_America
+Western_Sahara
